@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Asus\\OneDrive\\İş masası\\Task\\ifelse\\ifelse.csproj": {}
+    "C:\\Users\\Asus\\OneDrive\\İş masası\\Task\\elseif\\elseif.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Asus\\OneDrive\\İş masası\\Task\\ifelse\\ifelse.csproj": {
+    "C:\\Users\\Asus\\OneDrive\\İş masası\\Task\\elseif\\elseif.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Asus\\OneDrive\\İş masası\\Task\\ifelse\\ifelse.csproj",
-        "projectName": "ifelse",
-        "projectPath": "C:\\Users\\Asus\\OneDrive\\İş masası\\Task\\ifelse\\ifelse.csproj",
+        "projectUniqueName": "C:\\Users\\Asus\\OneDrive\\İş masası\\Task\\elseif\\elseif.csproj",
+        "projectName": "elseif",
+        "projectPath": "C:\\Users\\Asus\\OneDrive\\İş masası\\Task\\elseif\\elseif.csproj",
         "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Asus\\OneDrive\\İş masası\\Task\\ifelse\\obj\\",
+        "outputPath": "C:\\Users\\Asus\\OneDrive\\İş masası\\Task\\elseif\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
