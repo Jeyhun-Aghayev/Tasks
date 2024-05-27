@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34902.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BenchmarkTestApp", "BenchmarkTestApp.csproj", "{D2EB5E37-820F-454A-957A-0A5C149ADE7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TryCatchException", "..\TryCatchException\TryCatchException.csproj", "{9576CCCC-DD1C-4211-9450-7A95FA2228DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2EB5E37-820F-454A-957A-0A5C149ADE7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2EB5E37-820F-454A-957A-0A5C149ADE7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2EB5E37-820F-454A-957A-0A5C149ADE7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2EB5E37-820F-454A-957A-0A5C149ADE7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9576CCCC-DD1C-4211-9450-7A95FA2228DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9576CCCC-DD1C-4211-9450-7A95FA2228DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9576CCCC-DD1C-4211-9450-7A95FA2228DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9576CCCC-DD1C-4211-9450-7A95FA2228DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6ECF79FE-8CD5-4435-85B8-2423C0B1464F}
+	EndGlobalSection
+EndGlobal

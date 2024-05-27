@@ -1,0 +1,15 @@
+C:\Users\Asus\OneDrive\İş masası\Task\TryCatchException\bin\Debug\net8.0\TryCatchException.exe
+C:\Users\Asus\OneDrive\İş masası\Task\TryCatchException\bin\Debug\net8.0\TryCatchException.deps.json
+C:\Users\Asus\OneDrive\İş masası\Task\TryCatchException\bin\Debug\net8.0\TryCatchException.runtimeconfig.json
+C:\Users\Asus\OneDrive\İş masası\Task\TryCatchException\bin\Debug\net8.0\TryCatchException.dll
+C:\Users\Asus\OneDrive\İş masası\Task\TryCatchException\bin\Debug\net8.0\TryCatchException.pdb
+C:\Users\Asus\OneDrive\İş masası\Task\TryCatchException\obj\Debug\net8.0\TryCatchException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\OneDrive\İş masası\Task\TryCatchException\obj\Debug\net8.0\TryCatchException.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive\İş masası\Task\TryCatchException\obj\Debug\net8.0\TryCatchException.AssemblyInfo.cs
+C:\Users\Asus\OneDrive\İş masası\Task\TryCatchException\obj\Debug\net8.0\TryCatchException.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\İş masası\Task\TryCatchException\obj\Debug\net8.0\TryCatchException.sourcelink.json
+C:\Users\Asus\OneDrive\İş masası\Task\TryCatchException\obj\Debug\net8.0\TryCatchException.dll
+C:\Users\Asus\OneDrive\İş masası\Task\TryCatchException\obj\Debug\net8.0\refint\TryCatchException.dll
+C:\Users\Asus\OneDrive\İş masası\Task\TryCatchException\obj\Debug\net8.0\TryCatchException.pdb
+C:\Users\Asus\OneDrive\İş masası\Task\TryCatchException\obj\Debug\net8.0\TryCatchException.genruntimeconfig.cache
+C:\Users\Asus\OneDrive\İş masası\Task\TryCatchException\obj\Debug\net8.0\ref\TryCatchException.dll
