@@ -1,0 +1,15 @@
+C:\Users\Asus\OneDrive\İş masası\Task\Loopss\bin\Debug\net8.0\Loopss.exe
+C:\Users\Asus\OneDrive\İş masası\Task\Loopss\bin\Debug\net8.0\Loopss.deps.json
+C:\Users\Asus\OneDrive\İş masası\Task\Loopss\bin\Debug\net8.0\Loopss.runtimeconfig.json
+C:\Users\Asus\OneDrive\İş masası\Task\Loopss\bin\Debug\net8.0\Loopss.dll
+C:\Users\Asus\OneDrive\İş masası\Task\Loopss\bin\Debug\net8.0\Loopss.pdb
+C:\Users\Asus\OneDrive\İş masası\Task\Loopss\obj\Debug\net8.0\Loopss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\OneDrive\İş masası\Task\Loopss\obj\Debug\net8.0\Loopss.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive\İş masası\Task\Loopss\obj\Debug\net8.0\Loopss.AssemblyInfo.cs
+C:\Users\Asus\OneDrive\İş masası\Task\Loopss\obj\Debug\net8.0\Loopss.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\İş masası\Task\Loopss\obj\Debug\net8.0\Loopss.sourcelink.json
+C:\Users\Asus\OneDrive\İş masası\Task\Loopss\obj\Debug\net8.0\Loopss.dll
+C:\Users\Asus\OneDrive\İş masası\Task\Loopss\obj\Debug\net8.0\refint\Loopss.dll
+C:\Users\Asus\OneDrive\İş masası\Task\Loopss\obj\Debug\net8.0\Loopss.pdb
+C:\Users\Asus\OneDrive\İş masası\Task\Loopss\obj\Debug\net8.0\Loopss.genruntimeconfig.cache
+C:\Users\Asus\OneDrive\İş masası\Task\Loopss\obj\Debug\net8.0\ref\Loopss.dll

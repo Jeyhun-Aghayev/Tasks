@@ -1,0 +1,15 @@
+C:\Users\Asus\OneDrive\İş masası\Task\VilayatTasks\bin\Debug\net8.0\VilayatTasks.exe
+C:\Users\Asus\OneDrive\İş masası\Task\VilayatTasks\bin\Debug\net8.0\VilayatTasks.deps.json
+C:\Users\Asus\OneDrive\İş masası\Task\VilayatTasks\bin\Debug\net8.0\VilayatTasks.runtimeconfig.json
+C:\Users\Asus\OneDrive\İş masası\Task\VilayatTasks\bin\Debug\net8.0\VilayatTasks.dll
+C:\Users\Asus\OneDrive\İş masası\Task\VilayatTasks\bin\Debug\net8.0\VilayatTasks.pdb
+C:\Users\Asus\OneDrive\İş masası\Task\VilayatTasks\obj\Debug\net8.0\VilayatTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\OneDrive\İş masası\Task\VilayatTasks\obj\Debug\net8.0\VilayatTasks.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive\İş masası\Task\VilayatTasks\obj\Debug\net8.0\VilayatTasks.AssemblyInfo.cs
+C:\Users\Asus\OneDrive\İş masası\Task\VilayatTasks\obj\Debug\net8.0\VilayatTasks.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\İş masası\Task\VilayatTasks\obj\Debug\net8.0\VilayatTasks.sourcelink.json
+C:\Users\Asus\OneDrive\İş masası\Task\VilayatTasks\obj\Debug\net8.0\VilayatTasks.dll
+C:\Users\Asus\OneDrive\İş masası\Task\VilayatTasks\obj\Debug\net8.0\refint\VilayatTasks.dll
+C:\Users\Asus\OneDrive\İş masası\Task\VilayatTasks\obj\Debug\net8.0\VilayatTasks.pdb
+C:\Users\Asus\OneDrive\İş masası\Task\VilayatTasks\obj\Debug\net8.0\VilayatTasks.genruntimeconfig.cache
+C:\Users\Asus\OneDrive\İş masası\Task\VilayatTasks\obj\Debug\net8.0\ref\VilayatTasks.dll
