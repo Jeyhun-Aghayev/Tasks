@@ -1,0 +1,15 @@
+C:\Users\Asus\OneDrive\İş masası\Task\RefOut\bin\Debug\net8.0\RefOut.exe
+C:\Users\Asus\OneDrive\İş masası\Task\RefOut\bin\Debug\net8.0\RefOut.deps.json
+C:\Users\Asus\OneDrive\İş masası\Task\RefOut\bin\Debug\net8.0\RefOut.runtimeconfig.json
+C:\Users\Asus\OneDrive\İş masası\Task\RefOut\bin\Debug\net8.0\RefOut.dll
+C:\Users\Asus\OneDrive\İş masası\Task\RefOut\bin\Debug\net8.0\RefOut.pdb
+C:\Users\Asus\OneDrive\İş masası\Task\RefOut\obj\Debug\net8.0\RefOut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\OneDrive\İş masası\Task\RefOut\obj\Debug\net8.0\RefOut.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive\İş masası\Task\RefOut\obj\Debug\net8.0\RefOut.AssemblyInfo.cs
+C:\Users\Asus\OneDrive\İş masası\Task\RefOut\obj\Debug\net8.0\RefOut.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\İş masası\Task\RefOut\obj\Debug\net8.0\RefOut.sourcelink.json
+C:\Users\Asus\OneDrive\İş masası\Task\RefOut\obj\Debug\net8.0\RefOut.dll
+C:\Users\Asus\OneDrive\İş masası\Task\RefOut\obj\Debug\net8.0\refint\RefOut.dll
+C:\Users\Asus\OneDrive\İş masası\Task\RefOut\obj\Debug\net8.0\RefOut.pdb
+C:\Users\Asus\OneDrive\İş masası\Task\RefOut\obj\Debug\net8.0\RefOut.genruntimeconfig.cache
+C:\Users\Asus\OneDrive\İş masası\Task\RefOut\obj\Debug\net8.0\ref\RefOut.dll

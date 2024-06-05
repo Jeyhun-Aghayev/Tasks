@@ -9,6 +9,7 @@ namespace Loopss
         static void Main(string[] args)
         {
 
+            
             #region For
             //MinMax();
             //TekCutSayisi();
@@ -20,7 +21,7 @@ namespace Loopss
             #endregion
 
             //ForeachTask();
-            //WhileTask();
+            WhileTask();
             //Login();
             #region Examples
 
