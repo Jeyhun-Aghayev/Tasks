@@ -1,0 +1,14 @@
+C:\Users\Asus\source\repos\ArrayResizeExtation\bin\Debug\net8.0\ArrayResizeExtation.exe
+C:\Users\Asus\source\repos\ArrayResizeExtation\bin\Debug\net8.0\ArrayResizeExtation.deps.json
+C:\Users\Asus\source\repos\ArrayResizeExtation\bin\Debug\net8.0\ArrayResizeExtation.runtimeconfig.json
+C:\Users\Asus\source\repos\ArrayResizeExtation\bin\Debug\net8.0\ArrayResizeExtation.dll
+C:\Users\Asus\source\repos\ArrayResizeExtation\bin\Debug\net8.0\ArrayResizeExtation.pdb
+C:\Users\Asus\source\repos\ArrayResizeExtation\obj\Debug\net8.0\ArrayResizeExtation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\ArrayResizeExtation\obj\Debug\net8.0\ArrayResizeExtation.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\ArrayResizeExtation\obj\Debug\net8.0\ArrayResizeExtation.AssemblyInfo.cs
+C:\Users\Asus\source\repos\ArrayResizeExtation\obj\Debug\net8.0\ArrayResizeExtation.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ArrayResizeExtation\obj\Debug\net8.0\ArrayResizeExtation.dll
+C:\Users\Asus\source\repos\ArrayResizeExtation\obj\Debug\net8.0\refint\ArrayResizeExtation.dll
+C:\Users\Asus\source\repos\ArrayResizeExtation\obj\Debug\net8.0\ArrayResizeExtation.pdb
+C:\Users\Asus\source\repos\ArrayResizeExtation\obj\Debug\net8.0\ArrayResizeExtation.genruntimeconfig.cache
+C:\Users\Asus\source\repos\ArrayResizeExtation\obj\Debug\net8.0\ref\ArrayResizeExtation.dll
