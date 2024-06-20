@@ -1,0 +1,15 @@
+C:\Users\Asus\OneDrive\İş masası\Task\Ennum\obj\Debug\net8.0\Ennum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\OneDrive\İş masası\Task\Ennum\obj\Debug\net8.0\Ennum.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive\İş masası\Task\Ennum\obj\Debug\net8.0\Ennum.AssemblyInfo.cs
+C:\Users\Asus\OneDrive\İş masası\Task\Ennum\obj\Debug\net8.0\Ennum.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\İş masası\Task\Ennum\obj\Debug\net8.0\Ennum.sourcelink.json
+C:\Users\Asus\OneDrive\İş masası\Task\Ennum\bin\Debug\net8.0\Ennum.exe
+C:\Users\Asus\OneDrive\İş masası\Task\Ennum\bin\Debug\net8.0\Ennum.deps.json
+C:\Users\Asus\OneDrive\İş masası\Task\Ennum\bin\Debug\net8.0\Ennum.runtimeconfig.json
+C:\Users\Asus\OneDrive\İş masası\Task\Ennum\bin\Debug\net8.0\Ennum.dll
+C:\Users\Asus\OneDrive\İş masası\Task\Ennum\bin\Debug\net8.0\Ennum.pdb
+C:\Users\Asus\OneDrive\İş masası\Task\Ennum\obj\Debug\net8.0\Ennum.dll
+C:\Users\Asus\OneDrive\İş masası\Task\Ennum\obj\Debug\net8.0\refint\Ennum.dll
+C:\Users\Asus\OneDrive\İş masası\Task\Ennum\obj\Debug\net8.0\Ennum.pdb
+C:\Users\Asus\OneDrive\İş masası\Task\Ennum\obj\Debug\net8.0\Ennum.genruntimeconfig.cache
+C:\Users\Asus\OneDrive\İş masası\Task\Ennum\obj\Debug\net8.0\ref\Ennum.dll

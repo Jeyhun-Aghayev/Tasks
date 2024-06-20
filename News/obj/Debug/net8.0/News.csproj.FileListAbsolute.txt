@@ -1,0 +1,15 @@
+C:\Users\Asus\OneDrive\İş masası\Task\News\obj\Debug\net8.0\News.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\OneDrive\İş masası\Task\News\obj\Debug\net8.0\News.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive\İş masası\Task\News\obj\Debug\net8.0\News.AssemblyInfo.cs
+C:\Users\Asus\OneDrive\İş masası\Task\News\obj\Debug\net8.0\News.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\İş masası\Task\News\obj\Debug\net8.0\News.sourcelink.json
+C:\Users\Asus\OneDrive\İş masası\Task\News\bin\Debug\net8.0\News.exe
+C:\Users\Asus\OneDrive\İş masası\Task\News\bin\Debug\net8.0\News.deps.json
+C:\Users\Asus\OneDrive\İş masası\Task\News\bin\Debug\net8.0\News.runtimeconfig.json
+C:\Users\Asus\OneDrive\İş masası\Task\News\bin\Debug\net8.0\News.dll
+C:\Users\Asus\OneDrive\İş masası\Task\News\bin\Debug\net8.0\News.pdb
+C:\Users\Asus\OneDrive\İş masası\Task\News\obj\Debug\net8.0\News.dll
+C:\Users\Asus\OneDrive\İş masası\Task\News\obj\Debug\net8.0\refint\News.dll
+C:\Users\Asus\OneDrive\İş masası\Task\News\obj\Debug\net8.0\News.pdb
+C:\Users\Asus\OneDrive\İş masası\Task\News\obj\Debug\net8.0\News.genruntimeconfig.cache
+C:\Users\Asus\OneDrive\İş masası\Task\News\obj\Debug\net8.0\ref\News.dll

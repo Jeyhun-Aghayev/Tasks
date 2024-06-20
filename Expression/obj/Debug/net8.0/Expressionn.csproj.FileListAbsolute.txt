@@ -1,0 +1,15 @@
+C:\Users\Asus\OneDrive\İş masası\Task\Expression\bin\Debug\net8.0\Expressionn.exe
+C:\Users\Asus\OneDrive\İş masası\Task\Expression\bin\Debug\net8.0\Expressionn.deps.json
+C:\Users\Asus\OneDrive\İş masası\Task\Expression\bin\Debug\net8.0\Expressionn.runtimeconfig.json
+C:\Users\Asus\OneDrive\İş masası\Task\Expression\bin\Debug\net8.0\Expressionn.dll
+C:\Users\Asus\OneDrive\İş masası\Task\Expression\bin\Debug\net8.0\Expressionn.pdb
+C:\Users\Asus\OneDrive\İş masası\Task\Expression\obj\Debug\net8.0\Expressionn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\OneDrive\İş masası\Task\Expression\obj\Debug\net8.0\Expressionn.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive\İş masası\Task\Expression\obj\Debug\net8.0\Expressionn.AssemblyInfo.cs
+C:\Users\Asus\OneDrive\İş masası\Task\Expression\obj\Debug\net8.0\Expressionn.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\İş masası\Task\Expression\obj\Debug\net8.0\Expressionn.sourcelink.json
+C:\Users\Asus\OneDrive\İş masası\Task\Expression\obj\Debug\net8.0\Expressionn.dll
+C:\Users\Asus\OneDrive\İş masası\Task\Expression\obj\Debug\net8.0\refint\Expressionn.dll
+C:\Users\Asus\OneDrive\İş masası\Task\Expression\obj\Debug\net8.0\Expressionn.pdb
+C:\Users\Asus\OneDrive\İş masası\Task\Expression\obj\Debug\net8.0\Expressionn.genruntimeconfig.cache
+C:\Users\Asus\OneDrive\İş masası\Task\Expression\obj\Debug\net8.0\ref\Expressionn.dll
