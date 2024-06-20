@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Asus\\OneDrive\\\u0130\u015F masas\u0131\\Task\\Expression\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1B6BE942-A296-4DE8-9C4E-4A97EEF70000}|Expression.csproj|c:\\users\\asus\\onedrive\\\u0130\u015F masas\u0131\\task\\expression\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B6BE942-A296-4DE8-9C4E-4A97EEF70000}|Expression.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1B6BE942-A296-4DE8-9C4E-4A97EEF70000}|Expressionn.csproj|c:\\users\\asus\\onedrive\\\u0130\u015F masas\u0131\\task\\expression\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B6BE942-A296-4DE8-9C4E-4A97EEF70000}|Expressionn.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1B6BE942-A296-4DE8-9C4E-4A97EEF70000}|Expressionn.csproj|c:\\users\\asus\\onedrive\\\u0130\u015F masas\u0131\\task\\expression\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,8 +30,7 @@
               "RelativeToolTip": "Models\\Employee.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T05:33:41.526Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-20T05:33:41.526Z"
             },
             {
               "$type": "Document",
@@ -41,7 +40,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Asus\\OneDrive\\\u0130\u015F masas\u0131\\Task\\Expression\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAEIAAAAAAAAAAAAQwEQAAAAfAAAA",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAQwEkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-20T05:24:28.989Z",
               "EditorCaption": ""

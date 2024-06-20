@@ -77,13 +77,13 @@ namespace Expressionn
             Expression<Func<string, string, string>> createdMail = (m, n) => ReplaceExpression(m.ToLower()) + "."
             + ReplaceExpression(n.ToLower())
             + "@hotmail.com";
-            Expression<Func<string, string>> Name = n => n.Substring(0, 1).ToUpper() + n.Substring(1, n.Length - 1).ToLower();
-            Expression<Func<string, string>> LastName = l => l.ToUpper();
+            Expression<Func<string, string>> Name = n =>  ReplaceExpression(n.Substring(0, 1)).ToUpper() + ReplaceExpression(n.Substring(1, n.Length - 1)).ToLower();
+            Expression<Func<string, string>> LastName = l => ReplaceExpression(l.ToLower()).ToUpper();
 
 
             List<Employee> employees = new List<Employee>()
                {
-                   new Employee{FirstName = "ceyhun" , LastName = "agayev"},
+                   new Employee{FirstName = "ceüyhun" , LastName = "agayev"},
                    new Employee{FirstName = "eldar" , LastName = "Eyvazli"},
                    new Employee{FirstName = "samir" , LastName = "samirov"}
                };
