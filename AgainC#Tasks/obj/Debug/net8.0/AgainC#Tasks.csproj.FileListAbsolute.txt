@@ -1,0 +1,15 @@
+C:\Users\Asus\OneDrive\İş masası\Task\AgainC#Tasks\bin\Debug\net8.0\AgainC#Tasks.exe
+C:\Users\Asus\OneDrive\İş masası\Task\AgainC#Tasks\bin\Debug\net8.0\AgainC#Tasks.deps.json
+C:\Users\Asus\OneDrive\İş masası\Task\AgainC#Tasks\bin\Debug\net8.0\AgainC#Tasks.runtimeconfig.json
+C:\Users\Asus\OneDrive\İş masası\Task\AgainC#Tasks\bin\Debug\net8.0\AgainC#Tasks.dll
+C:\Users\Asus\OneDrive\İş masası\Task\AgainC#Tasks\bin\Debug\net8.0\AgainC#Tasks.pdb
+C:\Users\Asus\OneDrive\İş masası\Task\AgainC#Tasks\obj\Debug\net8.0\AgainC#Tasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\OneDrive\İş masası\Task\AgainC#Tasks\obj\Debug\net8.0\AgainC#Tasks.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive\İş masası\Task\AgainC#Tasks\obj\Debug\net8.0\AgainC#Tasks.AssemblyInfo.cs
+C:\Users\Asus\OneDrive\İş masası\Task\AgainC#Tasks\obj\Debug\net8.0\AgainC#Tasks.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\İş masası\Task\AgainC#Tasks\obj\Debug\net8.0\AgainC#Tasks.sourcelink.json
+C:\Users\Asus\OneDrive\İş masası\Task\AgainC#Tasks\obj\Debug\net8.0\AgainC#Tasks.dll
+C:\Users\Asus\OneDrive\İş masası\Task\AgainC#Tasks\obj\Debug\net8.0\refint\AgainC#Tasks.dll
+C:\Users\Asus\OneDrive\İş masası\Task\AgainC#Tasks\obj\Debug\net8.0\AgainC#Tasks.pdb
+C:\Users\Asus\OneDrive\İş masası\Task\AgainC#Tasks\obj\Debug\net8.0\AgainC#Tasks.genruntimeconfig.cache
+C:\Users\Asus\OneDrive\İş masası\Task\AgainC#Tasks\obj\Debug\net8.0\ref\AgainC#Tasks.dll

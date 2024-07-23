@@ -1,0 +1,15 @@
+C:\Users\Asus\OneDrive\İş masası\Task\GenericExtation\bin\Debug\net8.0\GenericExtation.exe
+C:\Users\Asus\OneDrive\İş masası\Task\GenericExtation\bin\Debug\net8.0\GenericExtation.deps.json
+C:\Users\Asus\OneDrive\İş masası\Task\GenericExtation\bin\Debug\net8.0\GenericExtation.runtimeconfig.json
+C:\Users\Asus\OneDrive\İş masası\Task\GenericExtation\bin\Debug\net8.0\GenericExtation.dll
+C:\Users\Asus\OneDrive\İş masası\Task\GenericExtation\bin\Debug\net8.0\GenericExtation.pdb
+C:\Users\Asus\OneDrive\İş masası\Task\GenericExtation\obj\Debug\net8.0\GenericExtation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\OneDrive\İş masası\Task\GenericExtation\obj\Debug\net8.0\GenericExtation.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive\İş masası\Task\GenericExtation\obj\Debug\net8.0\GenericExtation.AssemblyInfo.cs
+C:\Users\Asus\OneDrive\İş masası\Task\GenericExtation\obj\Debug\net8.0\GenericExtation.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\İş masası\Task\GenericExtation\obj\Debug\net8.0\GenericExtation.sourcelink.json
+C:\Users\Asus\OneDrive\İş masası\Task\GenericExtation\obj\Debug\net8.0\GenericExtation.dll
+C:\Users\Asus\OneDrive\İş masası\Task\GenericExtation\obj\Debug\net8.0\refint\GenericExtation.dll
+C:\Users\Asus\OneDrive\İş masası\Task\GenericExtation\obj\Debug\net8.0\GenericExtation.pdb
+C:\Users\Asus\OneDrive\İş masası\Task\GenericExtation\obj\Debug\net8.0\GenericExtation.genruntimeconfig.cache
+C:\Users\Asus\OneDrive\İş masası\Task\GenericExtation\obj\Debug\net8.0\ref\GenericExtation.dll

@@ -1,0 +1,15 @@
+C:\Users\Asus\OneDrive\İş masası\Task\SingletonTemplate\bin\Debug\net8.0\SingletonTemplate.exe
+C:\Users\Asus\OneDrive\İş masası\Task\SingletonTemplate\bin\Debug\net8.0\SingletonTemplate.deps.json
+C:\Users\Asus\OneDrive\İş masası\Task\SingletonTemplate\bin\Debug\net8.0\SingletonTemplate.runtimeconfig.json
+C:\Users\Asus\OneDrive\İş masası\Task\SingletonTemplate\bin\Debug\net8.0\SingletonTemplate.dll
+C:\Users\Asus\OneDrive\İş masası\Task\SingletonTemplate\bin\Debug\net8.0\SingletonTemplate.pdb
+C:\Users\Asus\OneDrive\İş masası\Task\SingletonTemplate\obj\Debug\net8.0\SingletonTemplate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\OneDrive\İş masası\Task\SingletonTemplate\obj\Debug\net8.0\SingletonTemplate.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive\İş masası\Task\SingletonTemplate\obj\Debug\net8.0\SingletonTemplate.AssemblyInfo.cs
+C:\Users\Asus\OneDrive\İş masası\Task\SingletonTemplate\obj\Debug\net8.0\SingletonTemplate.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\İş masası\Task\SingletonTemplate\obj\Debug\net8.0\SingletonTemplate.sourcelink.json
+C:\Users\Asus\OneDrive\İş masası\Task\SingletonTemplate\obj\Debug\net8.0\SingletonTemplate.dll
+C:\Users\Asus\OneDrive\İş masası\Task\SingletonTemplate\obj\Debug\net8.0\refint\SingletonTemplate.dll
+C:\Users\Asus\OneDrive\İş masası\Task\SingletonTemplate\obj\Debug\net8.0\SingletonTemplate.pdb
+C:\Users\Asus\OneDrive\İş masası\Task\SingletonTemplate\obj\Debug\net8.0\SingletonTemplate.genruntimeconfig.cache
+C:\Users\Asus\OneDrive\İş masası\Task\SingletonTemplate\obj\Debug\net8.0\ref\SingletonTemplate.dll
