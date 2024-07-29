@@ -1,32 +1,41 @@
-C:\Users\Asus\OneDrive\İş masası\Task\Rehber\obj\Debug\net8.0-windows\Rehber.Form1.resources
-C:\Users\Asus\OneDrive\İş masası\Task\Rehber\obj\Debug\net8.0-windows\Rehber.Properties.Resources.resources
-C:\Users\Asus\OneDrive\İş masası\Task\Rehber\obj\Debug\net8.0-windows\Rehber.csproj.GenerateResource.cache
-C:\Users\Asus\OneDrive\İş masası\Task\Rehber\obj\Debug\net8.0-windows\Rehber.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Asus\OneDrive\İş masası\Task\Rehber\obj\Debug\net8.0-windows\Rehber.AssemblyInfoInputs.cache
-C:\Users\Asus\OneDrive\İş masası\Task\Rehber\obj\Debug\net8.0-windows\Rehber.AssemblyInfo.cs
-C:\Users\Asus\OneDrive\İş masası\Task\Rehber\obj\Debug\net8.0-windows\Rehber.csproj.CoreCompileInputs.cache
-C:\Users\Asus\OneDrive\İş masası\Task\Rehber\obj\Debug\net8.0-windows\Rehber.sourcelink.json
-C:\Users\Asus\OneDrive\İş masası\Task\Rehber\bin\Debug\net8.0-windows\Rehber.exe
-C:\Users\Asus\OneDrive\İş masası\Task\Rehber\bin\Debug\net8.0-windows\Rehber.deps.json
-C:\Users\Asus\OneDrive\İş masası\Task\Rehber\bin\Debug\net8.0-windows\Rehber.runtimeconfig.json
-C:\Users\Asus\OneDrive\İş masası\Task\Rehber\bin\Debug\net8.0-windows\Rehber.dll
-C:\Users\Asus\OneDrive\İş masası\Task\Rehber\bin\Debug\net8.0-windows\Rehber.pdb
-C:\Users\Asus\OneDrive\İş masası\Task\Rehber\obj\Debug\net8.0-windows\Rehber.dll
-C:\Users\Asus\OneDrive\İş masası\Task\Rehber\obj\Debug\net8.0-windows\refint\Rehber.dll
-C:\Users\Asus\OneDrive\İş masası\Task\Rehber\obj\Debug\net8.0-windows\Rehber.pdb
-C:\Users\Asus\OneDrive\İş masası\Task\Rehber\obj\Debug\net8.0-windows\Rehber.genruntimeconfig.cache
-C:\Users\Asus\OneDrive\İş masası\Task\Rehber\obj\Debug\net8.0-windows\ref\Rehber.dll
-C:\Users\Asus\OneDrive\İş masası\Task\Rehber\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
-C:\Users\Asus\OneDrive\İş masası\Task\Rehber\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
-C:\Users\Asus\OneDrive\İş masası\Task\Rehber\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
-C:\Users\Asus\OneDrive\İş masası\Task\Rehber\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
-C:\Users\Asus\OneDrive\İş masası\Task\Rehber\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
-C:\Users\Asus\OneDrive\İş masası\Task\Rehber\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
-C:\Users\Asus\OneDrive\İş masası\Task\Rehber\obj\Debug\net8.0-windows\Rehber.csproj.AssemblyReference.cache
-C:\Users\Asus\OneDrive\İş masası\Task\Rehber\obj\Debug\net8.0-windows\Rehber.csproj.Up2Date
-C:\Users\Asus\OneDrive\İş masası\Task\Rehber\obj\Debug\net8.0-windows\Rehber.ListForm.resources
-C:\Users\Asus\OneDrive\İş masası\Task\Rehber\bin\Debug\net8.0-windows\MetroFramework.Design.dll
-C:\Users\Asus\OneDrive\İş masası\Task\Rehber\bin\Debug\net8.0-windows\MetroFramework.Fonts.dll
-C:\Users\Asus\OneDrive\İş masası\Task\Rehber\bin\Debug\net8.0-windows\MetroFramework.dll
-C:\Users\Asus\OneDrive\İş masası\Task\Rehber\obj\Debug\net8.0-windows\Rehber.EditForm.resources
-C:\Users\Asus\OneDrive\İş masası\Task\Rehber\obj\Debug\net8.0-windows\Rehber.MainForm.resources
+C:\Users\Asus\Desktop\Task\Rehber\bin\Debug\net8.0-windows\Rehber.exe
+C:\Users\Asus\Desktop\Task\Rehber\bin\Debug\net8.0-windows\MetroFramework.Design.dll
+C:\Users\Asus\Desktop\Task\Rehber\bin\Debug\net8.0-windows\MetroFramework.Fonts.dll
+C:\Users\Asus\Desktop\Task\Rehber\bin\Debug\net8.0-windows\MetroFramework.dll
+C:\Users\Asus\Desktop\Task\Rehber\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\Asus\Desktop\Task\Rehber\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Asus\Desktop\Task\Rehber\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Asus\Desktop\Task\Rehber\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Asus\Desktop\Task\Rehber\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Asus\Desktop\Task\Rehber\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Asus\Desktop\Task\Rehber\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Asus\Desktop\Task\Rehber\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Asus\Desktop\Task\Rehber\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Asus\Desktop\Task\Rehber\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Asus\Desktop\Task\Rehber\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Asus\Desktop\Task\Rehber\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Asus\Desktop\Task\Rehber\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Asus\Desktop\Task\Rehber\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Asus\Desktop\Task\Rehber\obj\Debug\net8.0-windows\Rehber.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Task\Rehber\obj\Debug\net8.0-windows\Rehber.EditForm.resources
+C:\Users\Asus\Desktop\Task\Rehber\obj\Debug\net8.0-windows\Rehber.Form1.resources
+C:\Users\Asus\Desktop\Task\Rehber\obj\Debug\net8.0-windows\Rehber.ListForm.resources
+C:\Users\Asus\Desktop\Task\Rehber\obj\Debug\net8.0-windows\Rehber.MainForm.resources
+C:\Users\Asus\Desktop\Task\Rehber\obj\Debug\net8.0-windows\Rehber.Properties.Resources.resources
+C:\Users\Asus\Desktop\Task\Rehber\obj\Debug\net8.0-windows\Rehber.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\Task\Rehber\obj\Debug\net8.0-windows\Rehber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Task\Rehber\obj\Debug\net8.0-windows\Rehber.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Task\Rehber\obj\Debug\net8.0-windows\Rehber.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Task\Rehber\obj\Debug\net8.0-windows\Rehber.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Task\Rehber\obj\Debug\net8.0-windows\Rehber.sourcelink.json
+C:\Users\Asus\Desktop\Task\Rehber\obj\Debug\net8.0-windows\Rehber.csproj.Up2Date
+C:\Users\Asus\Desktop\Task\Rehber\obj\Debug\net8.0-windows\Rehber.dll
+C:\Users\Asus\Desktop\Task\Rehber\obj\Debug\net8.0-windows\refint\Rehber.dll
+C:\Users\Asus\Desktop\Task\Rehber\obj\Debug\net8.0-windows\Rehber.pdb
+C:\Users\Asus\Desktop\Task\Rehber\bin\Debug\net8.0-windows\appsetting.json
+C:\Users\Asus\Desktop\Task\Rehber\bin\Debug\net8.0-windows\Rehber.deps.json
+C:\Users\Asus\Desktop\Task\Rehber\bin\Debug\net8.0-windows\Rehber.runtimeconfig.json
+C:\Users\Asus\Desktop\Task\Rehber\bin\Debug\net8.0-windows\Rehber.dll
+C:\Users\Asus\Desktop\Task\Rehber\bin\Debug\net8.0-windows\Rehber.pdb
+C:\Users\Asus\Desktop\Task\Rehber\obj\Debug\net8.0-windows\Rehber.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Task\Rehber\obj\Debug\net8.0-windows\ref\Rehber.dll

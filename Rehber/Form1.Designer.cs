@@ -64,6 +64,7 @@
             grb1.TabIndex = 0;
             grb1.TabStop = false;
             grb1.Text = "Kisi Ekle";
+            grb1.Enter += grb1_Enter;
             // 
             // button1
             // 

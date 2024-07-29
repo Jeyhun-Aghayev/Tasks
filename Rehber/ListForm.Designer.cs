@@ -56,7 +56,7 @@
             lstPeople.TabIndex = 0;
             lstPeople.UseCompatibleStateImageBehavior = false;
             lstPeople.View = View.Details;
-            lstPeople.SelectedIndexChanged += lstPeople_SelectedIndexChanged;
+            lstPeople.SelectedIndexChanged += ListForm_Load;
             // 
             // columnHeader1
             // 

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>AdoGenericServices</id>
+    <version>1.0.1</version>
+    <authors>AdoGenericServices</authors>
+    <iconUrl>https://cdn3.iconfinder.com/data/icons/supermario/PNG/Paper-Mario.png</iconUrl>
+    <description>Version updated</description>
+    <repository type="git" commit="9309fe9717b5d3568d21355c6ed62ba4f0c45842" />
+    <dependencies>
+      <group targetFramework="net8.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Asus\Desktop\Task\AdoGenericServices\bin\Debug\net8.0\AdoGenericServices.dll" target="lib\net8.0\AdoGenericServices.dll" />
+  </files>
+</package>

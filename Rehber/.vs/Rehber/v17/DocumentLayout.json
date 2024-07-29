@@ -1,42 +1,49 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Asus\\OneDrive\\\u0130\u015F masas\u0131\\Task\\Rehber\\",
+  "WorkspaceRootPath": "C:\\Users\\Asus\\Desktop\\Task\\Rehber\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{07D2AC1F-77FA-4259-B945-B09E87486245}|Rehber.csproj|c:\\users\\asus\\onedrive\\\u0130\u015F masas\u0131\\task\\rehber\\listform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{07D2AC1F-77FA-4259-B945-B09E87486245}|Rehber.csproj|solutionrelative:listform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{07D2AC1F-77FA-4259-B945-B09E87486245}|Rehber.csproj|C:\\Users\\Asus\\OneDrive\\\u0130\u015F masas\u0131\\Task\\Rehber\\editform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{07D2AC1F-77FA-4259-B945-B09E87486245}|Rehber.csproj|solutionrelative:editform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{07D2AC1F-77FA-4259-B945-B09E87486245}|Rehber.csproj|c:\\users\\asus\\onedrive\\\u0130\u015F masas\u0131\\task\\rehber\\editform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{07D2AC1F-77FA-4259-B945-B09E87486245}|Rehber.csproj|solutionrelative:editform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{07D2AC1F-77FA-4259-B945-B09E87486245}|Rehber.csproj|C:\\Users\\Asus\\OneDrive\\\u0130\u015F masas\u0131\\Task\\Rehber\\listform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{07D2AC1F-77FA-4259-B945-B09E87486245}|Rehber.csproj|solutionrelative:listform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{07D2AC1F-77FA-4259-B945-B09E87486245}|Rehber.csproj|C:\\Users\\Asus\\OneDrive\\\u0130\u015F masas\u0131\\Task\\Rehber\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{07D2AC1F-77FA-4259-B945-B09E87486245}|Rehber.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{07D2AC1F-77FA-4259-B945-B09E87486245}|Rehber.csproj|c:\\users\\asus\\onedrive\\\u0130\u015F masas\u0131\\task\\rehber\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{07D2AC1F-77FA-4259-B945-B09E87486245}|Rehber.csproj|c:\\users\\asus\\desktop\\task\\rehber\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{07D2AC1F-77FA-4259-B945-B09E87486245}|Rehber.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{07D2AC1F-77FA-4259-B945-B09E87486245}|Rehber.csproj|C:\\Users\\Asus\\OneDrive\\\u0130\u015F masas\u0131\\Task\\Rehber\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{07D2AC1F-77FA-4259-B945-B09E87486245}|Rehber.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{07D2AC1F-77FA-4259-B945-B09E87486245}|Rehber.csproj|c:\\users\\asus\\onedrive\\\u0130\u015F masas\u0131\\task\\rehber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{07D2AC1F-77FA-4259-B945-B09E87486245}|Rehber.csproj|c:\\users\\asus\\desktop\\task\\rehber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{07D2AC1F-77FA-4259-B945-B09E87486245}|Rehber.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{07D2AC1F-77FA-4259-B945-B09E87486245}|Rehber.csproj|c:\\users\\asus\\onedrive\\\u0130\u015F masas\u0131\\task\\rehber\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{07D2AC1F-77FA-4259-B945-B09E87486245}|Rehber.csproj|c:\\users\\asus\\desktop\\task\\rehber\\listform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{07D2AC1F-77FA-4259-B945-B09E87486245}|Rehber.csproj|solutionrelative:listform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07D2AC1F-77FA-4259-B945-B09E87486245}|Rehber.csproj|c:\\users\\asus\\desktop\\task\\rehber\\listform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07D2AC1F-77FA-4259-B945-B09E87486245}|Rehber.csproj|solutionrelative:listform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07D2AC1F-77FA-4259-B945-B09E87486245}|Rehber.csproj|c:\\users\\asus\\desktop\\task\\rehber\\listform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07D2AC1F-77FA-4259-B945-B09E87486245}|Rehber.csproj|solutionrelative:listform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07D2AC1F-77FA-4259-B945-B09E87486245}|Rehber.csproj|c:\\users\\asus\\desktop\\task\\rehber\\appsetting.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{07D2AC1F-77FA-4259-B945-B09E87486245}|Rehber.csproj|solutionrelative:appsetting.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07D2AC1F-77FA-4259-B945-B09E87486245}|Rehber.csproj|c:\\users\\asus\\desktop\\task\\rehber\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{07D2AC1F-77FA-4259-B945-B09E87486245}|Rehber.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07D2AC1F-77FA-4259-B945-B09E87486245}|Rehber.csproj|c:\\users\\asus\\desktop\\task\\rehber\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07D2AC1F-77FA-4259-B945-B09E87486245}|Rehber.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07D2AC1F-77FA-4259-B945-B09E87486245}|Rehber.csproj|c:\\users\\asus\\desktop\\task\\rehber\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{07D2AC1F-77FA-4259-B945-B09E87486245}|Rehber.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07D2AC1F-77FA-4259-B945-B09E87486245}|Rehber.csproj|c:\\users\\asus\\desktop\\task\\rehber\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{07D2AC1F-77FA-4259-B945-B09E87486245}|Rehber.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,119 +53,150 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "EditForm.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\\u0130\u015F masas\u0131\\Task\\Rehber\\EditForm.cs",
-              "RelativeDocumentMoniker": "EditForm.cs",
-              "ToolTip": "C:\\Users\\Asus\\OneDrive\\\u0130\u015F masas\u0131\\Task\\Rehber\\EditForm.cs",
-              "RelativeToolTip": "EditForm.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAuwBwAAAAXAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "ListForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Task\\Rehber\\ListForm.Designer.cs",
+              "RelativeDocumentMoniker": "ListForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Task\\Rehber\\ListForm.Designer.cs",
+              "RelativeToolTip": "ListForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-25T08:45:45.366Z",
+              "WhenOpened": "2024-07-26T06:26:55.638Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "EditForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\\u0130\u015F masas\u0131\\Task\\Rehber\\EditForm.cs",
-              "RelativeDocumentMoniker": "EditForm.cs",
-              "ToolTip": "C:\\Users\\Asus\\OneDrive\\\u0130\u015F masas\u0131\\Task\\Rehber\\EditForm.cs [Design]",
-              "RelativeToolTip": "EditForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-25T08:45:38.077Z",
-              "EditorCaption": " [Design]"
+              "DocumentIndex": 5,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAALkUAAAAAAAAAAAcwMgUAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-07-26T06:23:40.528Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ListForm.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\\u0130\u015F masas\u0131\\Task\\Rehber\\ListForm.cs",
-              "RelativeDocumentMoniker": "ListForm.cs",
-              "ToolTip": "C:\\Users\\Asus\\OneDrive\\\u0130\u015F masas\u0131\\Task\\Rehber\\ListForm.cs",
-              "RelativeToolTip": "ListForm.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAgwCAAAAANAAAAAAAAAA==",
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Task\\Rehber\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Task\\Rehber\\MainForm.cs",
+              "RelativeToolTip": "MainForm.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAQwBcAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-25T08:34:53.609Z",
+              "WhenOpened": "2024-07-26T05:57:33.594Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Task\\Rehber\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Task\\Rehber\\MainForm.cs [Design]",
+              "RelativeToolTip": "MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T05:57:30.82Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ListForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\\u0130\u015F masas\u0131\\Task\\Rehber\\ListForm.cs",
+              "Title": "ListForm.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Task\\Rehber\\ListForm.cs",
               "RelativeDocumentMoniker": "ListForm.cs",
-              "ToolTip": "C:\\Users\\Asus\\OneDrive\\\u0130\u015F masas\u0131\\Task\\Rehber\\ListForm.cs [Design]",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Task\\Rehber\\ListForm.cs",
+              "RelativeToolTip": "ListForm.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAUwDoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T05:48:50.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ListForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Task\\Rehber\\ListForm.cs",
+              "RelativeDocumentMoniker": "ListForm.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Task\\Rehber\\ListForm.cs [Design]",
               "RelativeToolTip": "ListForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-25T08:34:09.372Z",
+              "WhenOpened": "2024-07-26T05:48:19.999Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\\u0130\u015F masas\u0131\\Task\\Rehber\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Asus\\OneDrive\\\u0130\u015F masas\u0131\\Task\\Rehber\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAIBJwBAAAAAsAAAAAAAAAA==",
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Task\\Rehber\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Task\\Rehber\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAIAwwD0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-25T08:27:11.353Z",
+              "WhenOpened": "2024-07-26T05:39:38.806Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\\u0130\u015F masas\u0131\\Task\\Rehber\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\Asus\\OneDrive\\\u0130\u015F masas\u0131\\Task\\Rehber\\Form1.cs",
-              "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAA8wDYAAAAFAAAAAAAAAA==",
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Task\\Rehber\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Task\\Rehber\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-25T08:17:22.238Z",
+              "WhenOpened": "2024-07-26T05:39:28.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Task\\Rehber\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Task\\Rehber\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T05:39:13.356Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Task\\Rehber\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Task\\Rehber\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T05:39:09.201Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\\u0130\u015F masas\u0131\\Task\\Rehber\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\Asus\\OneDrive\\\u0130\u015F masas\u0131\\Task\\Rehber\\Form1.cs [Design]",
-              "RelativeToolTip": "Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-25T08:17:02.949Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MainForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\\u0130\u015F masas\u0131\\Task\\Rehber\\MainForm.cs",
-              "RelativeDocumentMoniker": "MainForm.cs",
-              "ToolTip": "C:\\Users\\Asus\\OneDrive\\\u0130\u015F masas\u0131\\Task\\Rehber\\MainForm.cs [Design]",
-              "RelativeToolTip": "MainForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-25T08:16:13.39Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MainForm.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\\u0130\u015F masas\u0131\\Task\\Rehber\\MainForm.cs",
-              "RelativeDocumentMoniker": "MainForm.cs",
-              "ToolTip": "C:\\Users\\Asus\\OneDrive\\\u0130\u015F masas\u0131\\Task\\Rehber\\MainForm.cs",
-              "RelativeToolTip": "MainForm.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAwwBYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-25T08:04:12.669Z",
+              "Title": "appsetting.json",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Task\\Rehber\\appsetting.json",
+              "RelativeDocumentMoniker": "appsetting.json",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Task\\Rehber\\appsetting.json",
+              "RelativeToolTip": "appsetting.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-26T05:37:17.949Z",
               "EditorCaption": ""
             }
           ]

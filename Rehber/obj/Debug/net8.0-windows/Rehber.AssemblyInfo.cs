@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Rehber")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0781e2e9a5b8b56785e2c2e2f021ec7de74753e5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9309fe9717b5d3568d21355c6ed62ba4f0c45842")]
 [assembly: System.Reflection.AssemblyProductAttribute("Rehber")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Rehber")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
