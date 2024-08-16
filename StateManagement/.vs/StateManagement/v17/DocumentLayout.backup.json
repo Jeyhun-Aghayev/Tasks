@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\Desktop\\Task\\StateManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64C60A5B-8CD9-4E1B-8AAA-402EE3B20122}|Cache\\Cache.csproj|c:\\users\\asus\\desktop\\task\\statemanagement\\cache\\cache.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{64C60A5B-8CD9-4E1B-8AAA-402EE3B20122}|Cache\\Cache.csproj|solutionrelative:cache\\cache.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64C60A5B-8CD9-4E1B-8AAA-402EE3B20122}|Cache\\Cache.csproj|c:\\users\\asus\\desktop\\task\\statemanagement\\cache\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64C60A5B-8CD9-4E1B-8AAA-402EE3B20122}|Cache\\Cache.csproj|solutionrelative:cache\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64C60A5B-8CD9-4E1B-8AAA-402EE3B20122}|Cache\\Cache.csproj|c:\\users\\asus\\desktop\\task\\statemanagement\\cache\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{64C60A5B-8CD9-4E1B-8AAA-402EE3B20122}|Cache\\Cache.csproj|solutionrelative:cache\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64C60A5B-8CD9-4E1B-8AAA-402EE3B20122}|Cache\\Cache.csproj|c:\\users\\asus\\desktop\\task\\statemanagement\\cache\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64C60A5B-8CD9-4E1B-8AAA-402EE3B20122}|Cache\\Cache.csproj|solutionrelative:cache\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64C60A5B-8CD9-4E1B-8AAA-402EE3B20122}|Cache\\Cache.csproj|c:\\users\\asus\\desktop\\task\\statemanagement\\cache\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64C60A5B-8CD9-4E1B-8AAA-402EE3B20122}|Cache\\Cache.csproj|solutionrelative:cache\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D3183E2-F6E0-481B-BA3F-E3BE139ED74D}|Session_\\Session_.csproj|c:\\users\\asus\\desktop\\task\\statemanagement\\session_\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D3183E2-F6E0-481B-BA3F-E3BE139ED74D}|Session_\\Session_.csproj|solutionrelative:session_\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D3183E2-F6E0-481B-BA3F-E3BE139ED74D}|Session_\\Session_.csproj|c:\\users\\asus\\desktop\\task\\statemanagement\\session_\\session_.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{8D3183E2-F6E0-481B-BA3F-E3BE139ED74D}|Session_\\Session_.csproj|solutionrelative:session_\\session_.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Task\\StateManagement\\Cache\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Cache\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Task\\StateManagement\\Cache\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Cache\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-14T08:59:59.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Task\\StateManagement\\Cache\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Cache\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Task\\StateManagement\\Cache\\Models\\Category.cs",
+              "RelativeToolTip": "Cache\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T08:59:35.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Task\\StateManagement\\Session_\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Session_\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Task\\StateManagement\\Session_\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Session_\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAADwvywAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T08:56:48.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Session_.http",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Task\\StateManagement\\Session_\\Session_.http",
+              "RelativeDocumentMoniker": "Session_\\Session_.http",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Task\\StateManagement\\Session_\\Session_.http",
+              "RelativeToolTip": "Session_\\Session_.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-08-14T08:56:01.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Task\\StateManagement\\Cache\\Program.cs",
+              "RelativeDocumentMoniker": "Cache\\Program.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Task\\StateManagement\\Cache\\Program.cs",
+              "RelativeToolTip": "Cache\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T08:55:49.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cache.http",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Task\\StateManagement\\Cache\\Cache.http",
+              "RelativeDocumentMoniker": "Cache\\Cache.http",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Task\\StateManagement\\Cache\\Cache.http",
+              "RelativeToolTip": "Cache\\Cache.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-08-14T08:55:40.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Task\\StateManagement\\Cache\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Cache\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Task\\StateManagement\\Cache\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Cache\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAcwCkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T08:55:33.86Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

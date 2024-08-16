@@ -1,0 +1,18 @@
+@Cache_HostAddress = http://localhost:5180
+
+
+GET {{Cache_HostAddress}}/api/categories
+Accept: application/json
+
+###
+
+
+POST {{Cache_HostAddress}}/api/categories
+Content-Type: application/json
+Accept: application/json
+  
+{
+  "categoryName": "Category 1",
+  "description": "Category 1 description"
+}
+ 

@@ -1,0 +1,9 @@
+# For more info on HTTP files go to https://aka.ms/vs/httpfile
+
+### Get All Product
+GET http://localhost:5097/api/Product
+
+
+
+### Get All Category
+GET http://localhost:5097/api/Category

@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\Desktop\\CeyhunApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{025B217C-C606-4279-8D9F-BC07F4F72575}|CeyhunApplication\\CeyhunApplication.csproj|c:\\users\\asus\\desktop\\ceyhunapplication\\ceyhunapplication\\concretes\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{025B217C-C606-4279-8D9F-BC07F4F72575}|CeyhunApplication\\CeyhunApplication.csproj|solutionrelative:ceyhunapplication\\concretes\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{025B217C-C606-4279-8D9F-BC07F4F72575}|CeyhunApplication\\CeyhunApplication.csproj|c:\\users\\asus\\desktop\\ceyhunapplication\\ceyhunapplication\\abstractions\\repositories\\ireadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{025B217C-C606-4279-8D9F-BC07F4F72575}|CeyhunApplication\\CeyhunApplication.csproj|solutionrelative:ceyhunapplication\\abstractions\\repositories\\ireadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{025B217C-C606-4279-8D9F-BC07F4F72575}|CeyhunApplication\\CeyhunApplication.csproj|c:\\users\\asus\\desktop\\ceyhunapplication\\ceyhunapplication\\concretes\\repositories\\readrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{025B217C-C606-4279-8D9F-BC07F4F72575}|CeyhunApplication\\CeyhunApplication.csproj|solutionrelative:ceyhunapplication\\concretes\\repositories\\readrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{025B217C-C606-4279-8D9F-BC07F4F72575}|CeyhunApplication\\CeyhunApplication.csproj|c:\\users\\asus\\desktop\\ceyhunapplication\\ceyhunapplication\\abstractions\\repositories\\category\\icategorywriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{025B217C-C606-4279-8D9F-BC07F4F72575}|CeyhunApplication\\CeyhunApplication.csproj|solutionrelative:ceyhunapplication\\abstractions\\repositories\\category\\icategorywriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{025B217C-C606-4279-8D9F-BC07F4F72575}|CeyhunApplication\\CeyhunApplication.csproj|c:\\users\\asus\\desktop\\ceyhunapplication\\ceyhunapplication\\abstractions\\repositories\\category\\icategoryreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{025B217C-C606-4279-8D9F-BC07F4F72575}|CeyhunApplication\\CeyhunApplication.csproj|solutionrelative:ceyhunapplication\\abstractions\\repositories\\category\\icategoryreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{025B217C-C606-4279-8D9F-BC07F4F72575}|CeyhunApplication\\CeyhunApplication.csproj|c:\\users\\asus\\desktop\\ceyhunapplication\\ceyhunapplication\\abstractions\\services\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{025B217C-C606-4279-8D9F-BC07F4F72575}|CeyhunApplication\\CeyhunApplication.csproj|solutionrelative:ceyhunapplication\\abstractions\\services\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{025B217C-C606-4279-8D9F-BC07F4F72575}|CeyhunApplication\\CeyhunApplication.csproj|c:\\users\\asus\\desktop\\ceyhunapplication\\ceyhunapplication\\concretes\\repositories\\writerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{025B217C-C606-4279-8D9F-BC07F4F72575}|CeyhunApplication\\CeyhunApplication.csproj|solutionrelative:ceyhunapplication\\concretes\\repositories\\writerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{025B217C-C606-4279-8D9F-BC07F4F72575}|CeyhunApplication\\CeyhunApplication.csproj|c:\\users\\asus\\desktop\\ceyhunapplication\\ceyhunapplication\\configurations\\baseentitymapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{025B217C-C606-4279-8D9F-BC07F4F72575}|CeyhunApplication\\CeyhunApplication.csproj|solutionrelative:ceyhunapplication\\configurations\\baseentitymapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{025B217C-C606-4279-8D9F-BC07F4F72575}|CeyhunApplication\\CeyhunApplication.csproj|c:\\users\\asus\\desktop\\ceyhunapplication\\ceyhunapplication\\ceyhunapplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{025B217C-C606-4279-8D9F-BC07F4F72575}|CeyhunApplication\\CeyhunApplication.csproj|solutionrelative:ceyhunapplication\\ceyhunapplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\CeyhunApplication\\CeyhunApplication\\Abstractions\\Repositories\\IReadRepository.cs",
+              "RelativeDocumentMoniker": "CeyhunApplication\\Abstractions\\Repositories\\IReadRepository.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\CeyhunApplication\\CeyhunApplication\\Abstractions\\Repositories\\IReadRepository.cs",
+              "RelativeToolTip": "CeyhunApplication\\Abstractions\\Repositories\\IReadRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T09:50:58.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICategoryWriteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\CeyhunApplication\\CeyhunApplication\\Abstractions\\Repositories\\Category\\ICategoryWriteRepository.cs",
+              "RelativeDocumentMoniker": "CeyhunApplication\\Abstractions\\Repositories\\Category\\ICategoryWriteRepository.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\CeyhunApplication\\CeyhunApplication\\Abstractions\\Repositories\\Category\\ICategoryWriteRepository.cs",
+              "RelativeToolTip": "CeyhunApplication\\Abstractions\\Repositories\\Category\\ICategoryWriteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T09:50:09.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICategoryReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\CeyhunApplication\\CeyhunApplication\\Abstractions\\Repositories\\Category\\ICategoryReadRepository.cs",
+              "RelativeDocumentMoniker": "CeyhunApplication\\Abstractions\\Repositories\\Category\\ICategoryReadRepository.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\CeyhunApplication\\CeyhunApplication\\Abstractions\\Repositories\\Category\\ICategoryReadRepository.cs",
+              "RelativeToolTip": "CeyhunApplication\\Abstractions\\Repositories\\Category\\ICategoryReadRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T09:49:43.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\CeyhunApplication\\CeyhunApplication\\Abstractions\\Services\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "CeyhunApplication\\Abstractions\\Services\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\CeyhunApplication\\CeyhunApplication\\Abstractions\\Services\\ICategoryService.cs",
+              "RelativeToolTip": "CeyhunApplication\\Abstractions\\Services\\ICategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T09:46:28.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\CeyhunApplication\\CeyhunApplication\\Concretes\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "CeyhunApplication\\Concretes\\Services\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\CeyhunApplication\\CeyhunApplication\\Concretes\\Services\\CategoryService.cs*",
+              "RelativeToolTip": "CeyhunApplication\\Concretes\\Services\\CategoryService.cs*",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwB4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T09:43:02.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WriteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\CeyhunApplication\\CeyhunApplication\\Concretes\\Repositories\\WriteRepository.cs",
+              "RelativeDocumentMoniker": "CeyhunApplication\\Concretes\\Repositories\\WriteRepository.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\CeyhunApplication\\CeyhunApplication\\Concretes\\Repositories\\WriteRepository.cs",
+              "RelativeToolTip": "CeyhunApplication\\Concretes\\Repositories\\WriteRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T09:42:59.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\CeyhunApplication\\CeyhunApplication\\Concretes\\Repositories\\ReadRepository.cs",
+              "RelativeDocumentMoniker": "CeyhunApplication\\Concretes\\Repositories\\ReadRepository.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\CeyhunApplication\\CeyhunApplication\\Concretes\\Repositories\\ReadRepository.cs*",
+              "RelativeToolTip": "CeyhunApplication\\Concretes\\Repositories\\ReadRepository.cs*",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAACYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T09:42:23.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BaseEntityMapping.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\CeyhunApplication\\CeyhunApplication\\Configurations\\BaseEntityMapping.cs",
+              "RelativeDocumentMoniker": "CeyhunApplication\\Configurations\\BaseEntityMapping.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\CeyhunApplication\\CeyhunApplication\\Configurations\\BaseEntityMapping.cs",
+              "RelativeToolTip": "CeyhunApplication\\Configurations\\BaseEntityMapping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T09:42:08.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CeyhunApplication",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\CeyhunApplication\\CeyhunApplication\\CeyhunApplication.csproj",
+              "RelativeDocumentMoniker": "CeyhunApplication\\CeyhunApplication.csproj",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\CeyhunApplication\\CeyhunApplication\\CeyhunApplication.csproj",
+              "RelativeToolTip": "CeyhunApplication\\CeyhunApplication.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-09T09:41:47.733Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

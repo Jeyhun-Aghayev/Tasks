@@ -1,0 +1,98 @@
+﻿<#@ template language="C#" debug="false" hostspecific="true" #>
+<#@ output extension=".cs" #>
+<#@ assembly name="System.Data" #>
+<#@ import namespace="System" #>
+<#@ import namespace="System.Collections.Generic" #>
+<#@ import namespace="System.Data" #>
+<#@ import namespace="System.Data.SqlClient" #>
+<#@ import namespace="System.IO" #>
+<#@ import namespace="System.Text" #>
+
+<#
+    string connectionString = "Server=localhost;database=Northwind;Integrated Security=true;trusted_connection=true";
+    string queryForCreatingProperties= @" 
+            SELECT STRING_AGG(
+                CONCAT(
+                    '    public ', 
+                    CASE 
+                        WHEN DATA_TYPE = 'nvarchar' THEN 'string' 
+                        WHEN DATA_TYPE = 'uniqueidentifier' THEN 'string'
+                        WHEN DATA_TYPE = 'ntext' THEN 'string'
+                        WHEN DATA_TYPE = 'nchar' THEN 'string'
+                        WHEN DATA_TYPE = 'int' THEN 'int'
+                        WHEN DATA_TYPE = 'smallint' THEN 'short'
+                        WHEN DATA_TYPE = 'tinyint' THEN 'byte'
+                        WHEN DATA_TYPE = 'money' THEN 'decimal'
+                        WHEN DATA_TYPE = 'float' THEN 'float'
+                        WHEN DATA_TYPE = 'decimal' THEN 'decimal'
+                        WHEN DATA_TYPE = 'bit' THEN 'bool'
+                        WHEN DATA_TYPE = 'datetime' THEN 'DateTime'
+                        WHEN DATA_TYPE = 'date' THEN 'DateTime'
+                        WHEN DATA_TYPE = 'datetime2' THEN 'DateTime'
+                        WHEN DATA_TYPE = 'image' THEN 'byte[]'
+                        ELSE 'object'
+                    END,
+                    CASE WHEN IS_NULLABLE = 'YES' THEN '?' ELSE '' END,
+                    ' ', 
+                    COLUMN_NAME,
+                    ' { get; set; }',
+                    CASE WHEN (DATA_TYPE IN ('nvarchar', 'nchar') AND IS_NULLABLE = 'NO') THEN ' = null!;' ELSE '' END,
+                    CHAR(13), CHAR(10)
+                ), '') AS properties
+            FROM INFORMATION_SCHEMA.COLUMNS
+            WHERE TABLE_NAME = @TableName
+            AND TABLE_SCHEMA = 'dbo'";
+
+    var tableNames = new List<string>();
+    using (SqlConnection con = new SqlConnection(connectionString))
+    {
+        con.Open();
+        using (SqlCommand cmd = new SqlCommand("SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_CATALOG='Northwind'", con))
+        {
+            using (SqlDataReader reader = cmd.ExecuteReader())
+            {
+                while (reader.Read())
+                {
+                    tableNames.Add(reader[0].ToString());
+                }
+            }
+        }
+    }
+
+    string filePath = Path.Combine(Host.ResolvePath("."), "Models");
+    if (!Directory.Exists(filePath))
+    {
+        Directory.CreateDirectory(filePath);
+    }
+
+    foreach (string tableName in tableNames)
+    {
+        string classPath = Path.Combine(filePath, tableName.Replace(" ", "") + ".cs");
+        string content = GetTableData(tableName);
+        File.WriteAllText(classPath, content, Encoding.UTF8);
+    }
+
+    string GetTableData(string tableName)
+    {
+        using (SqlConnection con = new SqlConnection(connectionString))
+        {
+            con.Open();
+            using (SqlCommand cmd = new SqlCommand(queryForCreatingProperties, con))
+            {
+                cmd.Parameters.AddWithValue("@TableName", tableName);
+                using (SqlDataReader reader = cmd.ExecuteReader())
+                {
+                    if (reader.Read())
+                    {
+                        string properties = reader["properties"].ToString();
+                        return $"public class {tableName.Replace(" ", "")}\n{{\n{properties}}}";
+                    }
+                    else
+                    {
+                        return default;
+                    }
+                }
+            }
+        }
+    }
+#>
