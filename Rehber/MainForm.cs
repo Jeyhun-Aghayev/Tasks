@@ -25,7 +25,9 @@ namespace Rehber
 
         private void button2_Click(object sender, EventArgs e)
         {
-
+            this.Hide();
+            ListForm listForm = new ListForm();
+            listForm.ShowDialog();
         }
 
         private void btnEdit_Click(object sender, EventArgs e)

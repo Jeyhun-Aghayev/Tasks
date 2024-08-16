@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Asus\\OneDrive\\İş masası\\Task\\Rehber\\Rehber.csproj": {}
+    "C:\\Users\\Asus\\Desktop\\Task\\Rehber\\Rehber.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Asus\\OneDrive\\İş masası\\Task\\Rehber\\Rehber.csproj": {
+    "C:\\Users\\Asus\\Desktop\\Task\\Rehber\\Rehber.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Asus\\OneDrive\\İş masası\\Task\\Rehber\\Rehber.csproj",
+        "projectUniqueName": "C:\\Users\\Asus\\Desktop\\Task\\Rehber\\Rehber.csproj",
         "projectName": "Rehber",
-        "projectPath": "C:\\Users\\Asus\\OneDrive\\İş masası\\Task\\Rehber\\Rehber.csproj",
+        "projectPath": "C:\\Users\\Asus\\Desktop\\Task\\Rehber\\Rehber.csproj",
         "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Asus\\OneDrive\\İş masası\\Task\\Rehber\\obj\\",
+        "outputPath": "C:\\Users\\Asus\\Desktop\\Task\\Rehber\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -49,6 +49,14 @@
             "MetroModernUI": {
               "target": "Package",
               "version": "[1.4.0, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[8.0.0, )"
             },
             "System.Data.SqlClient": {
               "target": "Package",

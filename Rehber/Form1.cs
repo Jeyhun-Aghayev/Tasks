@@ -60,6 +60,11 @@ public partial class Form1 : MetroForm
     private void Form1_FormClosing(object sender, FormClosingEventArgs e)
     {
         MainForm frm = new MainForm();
-       frm.Show();
+        frm.Show();
+    }
+
+    private void grb1_Enter(object sender, EventArgs e)
+    {
+
     }
 }

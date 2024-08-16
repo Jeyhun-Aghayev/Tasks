@@ -1,0 +1,5 @@
+{
+  "ConnectionString": {
+    "default": "server=localhost;database=PhoneBook;Trusted_Connection=True;"
+  }
+}

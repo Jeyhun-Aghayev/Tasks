@@ -1,0 +1,13 @@
+C:\Users\Asus\Desktop\Task\AdoGenericServices\bin\Debug\net8.0\AdoGenericServices.deps.json
+C:\Users\Asus\Desktop\Task\AdoGenericServices\bin\Debug\net8.0\AdoGenericServices.dll
+C:\Users\Asus\Desktop\Task\AdoGenericServices\bin\Debug\net8.0\AdoGenericServices.pdb
+C:\Users\Asus\Desktop\Task\AdoGenericServices\obj\Debug\net8.0\AdoGenericServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Task\AdoGenericServices\obj\Debug\net8.0\AdoGenericServices.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Task\AdoGenericServices\obj\Debug\net8.0\AdoGenericServices.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Task\AdoGenericServices\obj\Debug\net8.0\AdoGenericServices.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Task\AdoGenericServices\obj\Debug\net8.0\AdoGenericServices.sourcelink.json
+C:\Users\Asus\Desktop\Task\AdoGenericServices\obj\Debug\net8.0\AdoGenericServices.dll
+C:\Users\Asus\Desktop\Task\AdoGenericServices\obj\Debug\net8.0\refint\AdoGenericServices.dll
+C:\Users\Asus\Desktop\Task\AdoGenericServices\obj\Debug\net8.0\AdoGenericServices.pdb
+C:\Users\Asus\Desktop\Task\AdoGenericServices\obj\Debug\net8.0\ref\AdoGenericServices.dll
+C:\Users\Asus\Desktop\Task\AdoGenericServices\obj\Debug\net8.0\AdoGenericServices.csproj.AssemblyReference.cache

@@ -1,4 +1,5 @@
 ﻿using MetroFramework.Forms;
+using Microsoft.Extensions.Configuration;
 using Rehber.Models;
 using System.Data;
 using System.Data.SqlClient;
@@ -17,7 +18,7 @@ namespace Rehber
         {
 
             lstPeople.Items.Clear();
-            using SqlConnection con = new SqlConnection(connection);
+            using SqlConnection con = new SqlConnection(Program.Configuration.GetConnectionString("default"));
             using SqlCommand cmd = new SqlCommand();
             cmd.Connection = con;
             cmd.CommandText = "Select [Id], [FirstName], [LastName], [Phone], [Mail] FROM People";
@@ -49,9 +50,10 @@ namespace Rehber
                 item.SubItems.Add(dr[nameof(Person.Mail)] as string);
                 lstPeople.Items.Add(item);
             }
+            con.Close();
         }
 
-        string connection = "server=localhost;database=PhoneBook;Trusted_Connection=True";
+        string connection = Program.Configuration.GetConnectionString("default");
         private void ListForm_Load(object sender, EventArgs e)
         {
             Refles();
@@ -59,6 +61,7 @@ namespace Rehber
 
         private void lstPeople_SelectedIndexChanged(object sender, EventArgs e)
         {
+            
 
         }
 
@@ -116,9 +119,9 @@ namespace Rehber
 
         private void ListForm_FormClosing(object sender, FormClosingEventArgs e)
         {
-            this.Close();
+            this.Hide();
             MainForm form = new MainForm();
-            form.ShowDialog();
+            form.Show();
         }
     }
 }
