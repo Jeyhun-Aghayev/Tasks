@@ -1,4 +1,5 @@
-﻿using AuthenticationApplication.Data;
+﻿using AuthenticationApplication.Cryptography.PhyHelper;
+using AuthenticationApplication.Data;
 using AuthenticationApplication.Models;
 using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.AspNetCore.Identity;
@@ -7,11 +8,13 @@ using Microsoft.EntityFrameworkCore;
 var builder = WebApplication.CreateBuilder(args);
 
 
-
 builder.Services.AddControllersWithViews();
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("default")));
-
+//seperateDb
+builder.Services.AddHttpContextAccessor();
+builder.Services.AddScoped<ApplicationDbContextFactory>();
+builder.Services.AddScoped<ICryptographyService, CryptographyService>();
 
 builder.Services.AddIdentity<ApplicationUser, ApplicationRole>(options =>
 {
@@ -30,8 +33,12 @@ builder.Services.AddIdentity<ApplicationUser, ApplicationRole>(options =>
     options.Password.RequireUppercase = true;       // En az bir büyük harf
     options.Password.RequireNonAlphanumeric = true; // En az bir özel karakter
     // options.Password.RequiredUniqueChars = 1;       // Tekrar eden karakter sayısı (örn: aa, bb, cc gibi) 1 olmalıdır
+    options.Lockout.DefaultLockoutTimeSpan =TimeSpan.FromMinutes(5);
+    options.Lockout.AllowedForNewUsers = true;
+    options.Lockout.MaxFailedAccessAttempts = 5;
 }).AddEntityFrameworkStores<ApplicationDbContext>()
 .AddDefaultTokenProviders();
+
 
 
 builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme)
@@ -56,16 +63,17 @@ app.UseHttpsRedirection();
 app.UseRouting();
 
 app.UseAuthorization();
+app.UseStaticFiles();
+/*
+app.MapStaticAssets();*/
 
-app.MapStaticAssets();
-
-app.MapControllerRoute(
-    name: "default",
-    pattern: "{controller=Home}/{action=Index}/{id?}")
-    .WithStaticAssets();
 app.MapControllerRoute(
             name: "areas",
             pattern: "{area:exists}/{controller=Home}/{action=Index}/{id?}"
           );
+app.MapControllerRoute(
+    name: "default",
+    pattern: "{controller=Home}/{action=Index}/{id?}");
+    /*.WithStaticAssets();*/
 
 app.Run();

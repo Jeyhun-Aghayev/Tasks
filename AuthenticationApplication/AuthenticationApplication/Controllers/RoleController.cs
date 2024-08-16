@@ -1,15 +1,19 @@
 ﻿using AuthenticationApplication.Models;
 using AuthenticationApplication.Models.Dtos;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using NuGet.Protocol.Plugins;
+using System.Net;
 
 namespace AuthenticationApplication.Controllers;
 
+[Authorize]
 public class RoleController : Controller
 {
     private readonly RoleManager<ApplicationRole> _roleManager;
-    private readonly UserManager<ApplicationUser> _userManager  ;
+    private readonly UserManager<ApplicationUser> _userManager;
 
     public RoleController(RoleManager<ApplicationRole> roleManager, UserManager<ApplicationUser> userManager)
     {
@@ -73,5 +77,39 @@ public class RoleController : Controller
         };
 
         return View(dto);
+    }
+
+
+    [HttpPost]
+    public async Task<IActionResult> Edit([FromBody] UserRoleEditDto dto)
+    {
+        ApplicationRole _role = await _roleManager.FindByIdAsync(dto.RoleId.ToString());
+        IdentityResult result = new();
+        if (ModelState.IsValid)
+        {
+            foreach (string email in dto.Emails)
+            {
+                var user = await _userManager.FindByEmailAsync(email);
+                if (user != null)
+                {
+                    bool isInRole = await _userManager.IsInRoleAsync(user, _role.Name);
+                    if (isInRole)
+                    {
+                        result = await _userManager.RemoveFromRoleAsync(user, _role.Name);
+                    }
+                    else
+                    {
+                        result = await _userManager.AddToRoleAsync(user, _role.Name);
+                    }
+
+                }
+            }
+        }
+        return Json(new
+        {
+            StatusCode = result.Succeeded ? HttpStatusCode.OK : HttpStatusCode.BadRequest,
+            Messages = result.Succeeded ? new[] { "Success" } : result.Errors.Select(x => x.Description).ToArray()
+        });
+
     }
 }

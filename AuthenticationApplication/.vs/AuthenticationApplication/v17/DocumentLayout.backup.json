@@ -1,34 +1,46 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Asus\\Desktop\\Task\\AuthenticationApplication\\",
+  "WorkspaceRootPath": "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\AuthenticationApplication\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{11433C07-1305-4453-8864-F7BD8602F34B}|AuthenticationApplication\\AuthenticationApplication.csproj|c:\\users\\asus\\desktop\\task\\authenticationapplication\\authenticationapplication\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{11433C07-1305-4453-8864-F7BD8602F34B}|AuthenticationApplication\\AuthenticationApplication.csproj|c:\\users\\ceyhunsa\\desktop\\clone\\tasks\\authenticationapplication\\authenticationapplication\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11433C07-1305-4453-8864-F7BD8602F34B}|AuthenticationApplication\\AuthenticationApplication.csproj|solutionrelative:authenticationapplication\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11433C07-1305-4453-8864-F7BD8602F34B}|AuthenticationApplication\\AuthenticationApplication.csproj|c:\\users\\ceyhunsa\\desktop\\clone\\tasks\\authenticationapplication\\authenticationapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11433C07-1305-4453-8864-F7BD8602F34B}|AuthenticationApplication\\AuthenticationApplication.csproj|solutionrelative:authenticationapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11433C07-1305-4453-8864-F7BD8602F34B}|AuthenticationApplication\\AuthenticationApplication.csproj|c:\\users\\ceyhunsa\\desktop\\clone\\tasks\\authenticationapplication\\authenticationapplication\\cryptography\\phyhelper\\cryptographyhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11433C07-1305-4453-8864-F7BD8602F34B}|AuthenticationApplication\\AuthenticationApplication.csproj|solutionrelative:authenticationapplication\\cryptography\\phyhelper\\cryptographyhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11433C07-1305-4453-8864-F7BD8602F34B}|AuthenticationApplication\\AuthenticationApplication.csproj|c:\\users\\ceyhunsa\\desktop\\clone\\tasks\\authenticationapplication\\authenticationapplication\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11433C07-1305-4453-8864-F7BD8602F34B}|AuthenticationApplication\\AuthenticationApplication.csproj|solutionrelative:authenticationapplication\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11433C07-1305-4453-8864-F7BD8602F34B}|AuthenticationApplication\\AuthenticationApplication.csproj|c:\\users\\ceyhunsa\\desktop\\clone\\tasks\\authenticationapplication\\authenticationapplication\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11433C07-1305-4453-8864-F7BD8602F34B}|AuthenticationApplication\\AuthenticationApplication.csproj|solutionrelative:authenticationapplication\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11433C07-1305-4453-8864-F7BD8602F34B}|AuthenticationApplication\\AuthenticationApplication.csproj|c:\\users\\ceyhunsa\\desktop\\clone\\tasks\\authenticationapplication\\authenticationapplication\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{11433C07-1305-4453-8864-F7BD8602F34B}|AuthenticationApplication\\AuthenticationApplication.csproj|solutionrelative:authenticationapplication\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{11433C07-1305-4453-8864-F7BD8602F34B}|AuthenticationApplication\\AuthenticationApplication.csproj|c:\\users\\asus\\desktop\\task\\authenticationapplication\\authenticationapplication\\models\\dtos\\loginuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11433C07-1305-4453-8864-F7BD8602F34B}|AuthenticationApplication\\AuthenticationApplication.csproj|solutionrelative:authenticationapplication\\models\\dtos\\loginuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{11433C07-1305-4453-8864-F7BD8602F34B}|AuthenticationApplication\\AuthenticationApplication.csproj|c:\\users\\ceyhunsa\\desktop\\clone\\tasks\\authenticationapplication\\authenticationapplication\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11433C07-1305-4453-8864-F7BD8602F34B}|AuthenticationApplication\\AuthenticationApplication.csproj|solutionrelative:authenticationapplication\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{11433C07-1305-4453-8864-F7BD8602F34B}|AuthenticationApplication\\AuthenticationApplication.csproj|c:\\users\\asus\\desktop\\task\\authenticationapplication\\authenticationapplication\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{11433C07-1305-4453-8864-F7BD8602F34B}|AuthenticationApplication\\AuthenticationApplication.csproj|c:\\users\\ceyhunsa\\desktop\\clone\\tasks\\authenticationapplication\\authenticationapplication\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11433C07-1305-4453-8864-F7BD8602F34B}|AuthenticationApplication\\AuthenticationApplication.csproj|solutionrelative:authenticationapplication\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11433C07-1305-4453-8864-F7BD8602F34B}|AuthenticationApplication\\AuthenticationApplication.csproj|c:\\users\\ceyhunsa\\desktop\\clone\\tasks\\authenticationapplication\\authenticationapplication\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{11433C07-1305-4453-8864-F7BD8602F34B}|AuthenticationApplication\\AuthenticationApplication.csproj|solutionrelative:authenticationapplication\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{11433C07-1305-4453-8864-F7BD8602F34B}|AuthenticationApplication\\AuthenticationApplication.csproj|c:\\users\\asus\\desktop\\task\\authenticationapplication\\authenticationapplication\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11433C07-1305-4453-8864-F7BD8602F34B}|AuthenticationApplication\\AuthenticationApplication.csproj|solutionrelative:authenticationapplication\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asus\\Desktop\\Task\\AuthenticationApplication\\AuthenticationApplication\\Migrations\\20240815081246_Identity2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AuthenticationApplication\\Migrations\\20240815081246_Identity2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11433C07-1305-4453-8864-F7BD8602F34B}|AuthenticationApplication\\AuthenticationApplication.csproj|c:\\users\\asus\\desktop\\task\\authenticationapplication\\authenticationapplication\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11433C07-1305-4453-8864-F7BD8602F34B}|AuthenticationApplication\\AuthenticationApplication.csproj|solutionrelative:authenticationapplication\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11433C07-1305-4453-8864-F7BD8602F34B}|AuthenticationApplication\\AuthenticationApplication.csproj|c:\\users\\asus\\desktop\\task\\authenticationapplication\\authenticationapplication\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{11433C07-1305-4453-8864-F7BD8602F34B}|AuthenticationApplication\\AuthenticationApplication.csproj|solutionrelative:authenticationapplication\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{11433C07-1305-4453-8864-F7BD8602F34B}|AuthenticationApplication\\AuthenticationApplication.csproj|c:\\users\\ceyhunsa\\desktop\\clone\\tasks\\authenticationapplication\\authenticationapplication\\views\\role\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11433C07-1305-4453-8864-F7BD8602F34B}|AuthenticationApplication\\AuthenticationApplication.csproj|solutionrelative:authenticationapplication\\views\\role\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,98 +50,132 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "LoginUserDto.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Task\\AuthenticationApplication\\AuthenticationApplication\\Models\\Dtos\\LoginUserDto.cs",
-              "RelativeDocumentMoniker": "AuthenticationApplication\\Models\\Dtos\\LoginUserDto.cs",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\Task\\AuthenticationApplication\\AuthenticationApplication\\Models\\Dtos\\LoginUserDto.cs",
-              "RelativeToolTip": "AuthenticationApplication\\Models\\Dtos\\LoginUserDto.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAA/wCcAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\AuthenticationApplication\\AuthenticationApplication\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "AuthenticationApplication\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\AuthenticationApplication\\AuthenticationApplication\\Models\\Category.cs",
+              "RelativeToolTip": "AuthenticationApplication\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-15T09:40:13.72Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "RoleController.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Task\\AuthenticationApplication\\AuthenticationApplication\\Controllers\\RoleController.cs",
-              "RelativeDocumentMoniker": "AuthenticationApplication\\Controllers\\RoleController.cs",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\Task\\AuthenticationApplication\\AuthenticationApplication\\Controllers\\RoleController.cs",
-              "RelativeToolTip": "AuthenticationApplication\\Controllers\\RoleController.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAuwEkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-15T08:33:34.734Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "20240815081246_Identity2.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Task\\AuthenticationApplication\\AuthenticationApplication\\Migrations\\20240815081246_Identity2.cs",
-              "RelativeDocumentMoniker": "AuthenticationApplication\\Migrations\\20240815081246_Identity2.cs",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\Task\\AuthenticationApplication\\AuthenticationApplication\\Migrations\\20240815081246_Identity2.cs",
-              "RelativeToolTip": "AuthenticationApplication\\Migrations\\20240815081246_Identity2.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-15T08:12:46.497Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ApplicationUser.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Task\\AuthenticationApplication\\AuthenticationApplication\\Models\\ApplicationUser.cs",
-              "RelativeDocumentMoniker": "AuthenticationApplication\\Models\\ApplicationUser.cs",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\Task\\AuthenticationApplication\\AuthenticationApplication\\Models\\ApplicationUser.cs",
-              "RelativeToolTip": "AuthenticationApplication\\Models\\ApplicationUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-15T08:12:29.89Z",
+              "WhenOpened": "2024-08-16T09:07:29.987Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Task\\AuthenticationApplication\\AuthenticationApplication\\Views\\User\\Create.cshtml",
-              "RelativeDocumentMoniker": "AuthenticationApplication\\Views\\User\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\Task\\AuthenticationApplication\\AuthenticationApplication\\Views\\User\\Create.cshtml",
-              "RelativeToolTip": "AuthenticationApplication\\Views\\User\\Create.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-15T08:08:44.355Z",
+              "Title": "CryptographyHelper.cs",
+              "DocumentMoniker": "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\AuthenticationApplication\\AuthenticationApplication\\Cryptography\\PhyHelper\\CryptographyHelper.cs",
+              "RelativeDocumentMoniker": "AuthenticationApplication\\Cryptography\\PhyHelper\\CryptographyHelper.cs",
+              "ToolTip": "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\AuthenticationApplication\\AuthenticationApplication\\Cryptography\\PhyHelper\\CryptographyHelper.cs",
+              "RelativeToolTip": "AuthenticationApplication\\Cryptography\\PhyHelper\\CryptographyHelper.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAA9wE8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T09:03:15.367Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Task\\AuthenticationApplication\\AuthenticationApplication\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "AuthenticationApplication\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\Task\\AuthenticationApplication\\AuthenticationApplication\\Controllers\\UserController.cs",
-              "RelativeToolTip": "AuthenticationApplication\\Controllers\\UserController.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAAAC8AAAAVAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\AuthenticationApplication\\AuthenticationApplication\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "AuthenticationApplication\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\AuthenticationApplication\\AuthenticationApplication\\Data\\ApplicationDbContext.cs*",
+              "RelativeToolTip": "AuthenticationApplication\\Data\\ApplicationDbContext.cs*",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwCcAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-15T07:27:09.935Z",
+              "WhenOpened": "2024-08-16T08:35:51.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\AuthenticationApplication\\AuthenticationApplication\\Program.cs",
+              "RelativeDocumentMoniker": "AuthenticationApplication\\Program.cs",
+              "ToolTip": "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\AuthenticationApplication\\AuthenticationApplication\\Program.cs*",
+              "RelativeToolTip": "AuthenticationApplication\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T08:34:02.127Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Task\\AuthenticationApplication\\AuthenticationApplication\\Views\\User\\Index.cshtml",
-              "RelativeDocumentMoniker": "AuthenticationApplication\\Views\\User\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\Task\\AuthenticationApplication\\AuthenticationApplication\\Views\\User\\Index.cshtml",
-              "RelativeToolTip": "AuthenticationApplication\\Views\\User\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA7AAAAAAAAAA==",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\AuthenticationApplication\\AuthenticationApplication\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AuthenticationApplication\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\AuthenticationApplication\\AuthenticationApplication\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AuthenticationApplication\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACEAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-15T07:14:45.224Z",
+              "WhenOpened": "2024-08-16T08:21:07.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\AuthenticationApplication\\AuthenticationApplication\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "AuthenticationApplication\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\AuthenticationApplication\\AuthenticationApplication\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "AuthenticationApplication\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAxwCUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T07:48:20.377Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\AuthenticationApplication\\AuthenticationApplication\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "AuthenticationApplication\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\AuthenticationApplication\\AuthenticationApplication\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "AuthenticationApplication\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-16T07:46:15.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\AuthenticationApplication\\AuthenticationApplication\\Views\\User\\Create.cshtml",
+              "RelativeDocumentMoniker": "AuthenticationApplication\\Views\\User\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\AuthenticationApplication\\AuthenticationApplication\\Views\\User\\Create.cshtml",
+              "RelativeToolTip": "AuthenticationApplication\\Views\\User\\Create.cshtml",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-16T07:43:34.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RoleController.cs",
+              "DocumentMoniker": "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\AuthenticationApplication\\AuthenticationApplication\\Controllers\\RoleController.cs",
+              "RelativeDocumentMoniker": "AuthenticationApplication\\Controllers\\RoleController.cs",
+              "ToolTip": "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\AuthenticationApplication\\AuthenticationApplication\\Controllers\\RoleController.cs",
+              "RelativeToolTip": "AuthenticationApplication\\Controllers\\RoleController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T07:23:33.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\AuthenticationApplication\\AuthenticationApplication\\Views\\Role\\Edit.cshtml",
+              "RelativeDocumentMoniker": "AuthenticationApplication\\Views\\Role\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\AuthenticationApplication\\AuthenticationApplication\\Views\\Role\\Edit.cshtml",
+              "RelativeToolTip": "AuthenticationApplication\\Views\\Role\\Edit.cshtml",
+              "ViewState": "AgIAAFAAAAAAAAAAAADwv2AAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-16T06:19:24.049Z"
             }
           ]
         }
