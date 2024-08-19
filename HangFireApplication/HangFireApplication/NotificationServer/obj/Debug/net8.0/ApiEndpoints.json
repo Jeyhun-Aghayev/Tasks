@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "NotificationServer.Controllers.EmailsController",
+    "Method": "SendMail",
+    "RelativePath": "api/Emails",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "NotificationServer.Models.EmailBody",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
