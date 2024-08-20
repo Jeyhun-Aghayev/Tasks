@@ -8,7 +8,7 @@ builder.Services.AddHangfire(config =>
 {
     config.UseSqlServerStorage(builder.Configuration.GetConnectionString("hangfire"));
 });
-
+builder.Services.AddHangfireServer();
 
 
 var app = builder.Build();

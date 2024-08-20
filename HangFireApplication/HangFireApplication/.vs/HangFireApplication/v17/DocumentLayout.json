@@ -3,40 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\HangFireApplication\\HangFireApplication\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{30CD08BC-D457-464A-9EF6-BE886A41B03D}|NotificationServer\\NotificationServer.csproj|c:\\users\\ceyhunsa\\desktop\\clone\\tasks\\hangfireapplication\\hangfireapplication\\notificationserver\\notificationserver.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{30CD08BC-D457-464A-9EF6-BE886A41B03D}|NotificationServer\\NotificationServer.csproj|solutionrelative:notificationserver\\notificationserver.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{30CD08BC-D457-464A-9EF6-BE886A41B03D}|NotificationServer\\NotificationServer.csproj|c:\\users\\ceyhunsa\\desktop\\clone\\tasks\\hangfireapplication\\hangfireapplication\\notificationserver\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{30CD08BC-D457-464A-9EF6-BE886A41B03D}|NotificationServer\\NotificationServer.csproj|solutionrelative:notificationserver\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{30CD08BC-D457-464A-9EF6-BE886A41B03D}|NotificationServer\\NotificationServer.csproj|c:\\users\\ceyhunsa\\desktop\\clone\\tasks\\hangfireapplication\\hangfireapplication\\notificationserver\\templates\\emailtemplates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{30CD08BC-D457-464A-9EF6-BE886A41B03D}|NotificationServer\\NotificationServer.csproj|solutionrelative:notificationserver\\templates\\emailtemplates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{30CD08BC-D457-464A-9EF6-BE886A41B03D}|NotificationServer\\NotificationServer.csproj|c:\\users\\ceyhunsa\\desktop\\clone\\tasks\\hangfireapplication\\hangfireapplication\\notificationserver\\controllers\\emailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{30CD08BC-D457-464A-9EF6-BE886A41B03D}|NotificationServer\\NotificationServer.csproj|solutionrelative:notificationserver\\controllers\\emailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{30CD08BC-D457-464A-9EF6-BE886A41B03D}|NotificationServer\\NotificationServer.csproj|c:\\users\\ceyhunsa\\desktop\\clone\\tasks\\hangfireapplication\\hangfireapplication\\notificationserver\\notificationserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{30CD08BC-D457-464A-9EF6-BE886A41B03D}|NotificationServer\\NotificationServer.csproj|solutionrelative:notificationserver\\notificationserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{30CD08BC-D457-464A-9EF6-BE886A41B03D}|NotificationServer\\NotificationServer.csproj|c:\\users\\ceyhunsa\\desktop\\clone\\tasks\\hangfireapplication\\hangfireapplication\\notificationserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{30CD08BC-D457-464A-9EF6-BE886A41B03D}|NotificationServer\\NotificationServer.csproj|solutionrelative:notificationserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{30CD08BC-D457-464A-9EF6-BE886A41B03D}|NotificationServer\\NotificationServer.csproj|c:\\users\\ceyhunsa\\desktop\\clone\\tasks\\hangfireapplication\\hangfireapplication\\notificationserver\\services\\imailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{30CD08BC-D457-464A-9EF6-BE886A41B03D}|NotificationServer\\NotificationServer.csproj|solutionrelative:notificationserver\\services\\imailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14E7B295-1E0B-4F69-96B3-5036FCB89B4B}|HangFireApplication\\HangFireApplication.csproj|c:\\users\\ceyhunsa\\desktop\\clone\\tasks\\hangfireapplication\\hangfireapplication\\hangfireapplication\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{14E7B295-1E0B-4F69-96B3-5036FCB89B4B}|HangFireApplication\\HangFireApplication.csproj|solutionrelative:hangfireapplication\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{30CD08BC-D457-464A-9EF6-BE886A41B03D}|NotificationServer\\NotificationServer.csproj|c:\\users\\ceyhunsa\\desktop\\clone\\tasks\\hangfireapplication\\hangfireapplication\\notificationserver\\controllers\\emailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30CD08BC-D457-464A-9EF6-BE886A41B03D}|NotificationServer\\NotificationServer.csproj|solutionrelative:notificationserver\\controllers\\emailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14E7B295-1E0B-4F69-96B3-5036FCB89B4B}|HangFireApplication\\HangFireApplication.csproj|c:\\users\\ceyhunsa\\desktop\\clone\\tasks\\hangfireapplication\\hangfireapplication\\hangfireapplication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14E7B295-1E0B-4F69-96B3-5036FCB89B4B}|HangFireApplication\\HangFireApplication.csproj|solutionrelative:hangfireapplication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{30CD08BC-D457-464A-9EF6-BE886A41B03D}|NotificationServer\\NotificationServer.csproj|c:\\users\\ceyhunsa\\desktop\\clone\\tasks\\hangfireapplication\\hangfireapplication\\notificationserver\\configurations\\emailconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30CD08BC-D457-464A-9EF6-BE886A41B03D}|NotificationServer\\NotificationServer.csproj|solutionrelative:notificationserver\\configurations\\emailconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14E7B295-1E0B-4F69-96B3-5036FCB89B4B}|HangFireApplication\\HangFireApplication.csproj|c:\\users\\ceyhunsa\\desktop\\clone\\tasks\\hangfireapplication\\hangfireapplication\\hangfireapplication\\controllers\\emailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14E7B295-1E0B-4F69-96B3-5036FCB89B4B}|HangFireApplication\\HangFireApplication.csproj|solutionrelative:hangfireapplication\\controllers\\emailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14E7B295-1E0B-4F69-96B3-5036FCB89B4B}|HangFireApplication\\HangFireApplication.csproj|c:\\users\\ceyhunsa\\desktop\\clone\\tasks\\hangfireapplication\\hangfireapplication\\hangfireapplication\\services\\imailserviceapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14E7B295-1E0B-4F69-96B3-5036FCB89B4B}|HangFireApplication\\HangFireApplication.csproj|solutionrelative:hangfireapplication\\services\\imailserviceapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14E7B295-1E0B-4F69-96B3-5036FCB89B4B}|HangFireApplication\\HangFireApplication.csproj|c:\\users\\ceyhunsa\\desktop\\clone\\tasks\\hangfireapplication\\hangfireapplication\\hangfireapplication\\views\\emails\\send.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14E7B295-1E0B-4F69-96B3-5036FCB89B4B}|HangFireApplication\\HangFireApplication.csproj|solutionrelative:hangfireapplication\\views\\emails\\send.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{14E7B295-1E0B-4F69-96B3-5036FCB89B4B}|HangFireApplication\\HangFireApplication.csproj|c:\\users\\ceyhunsa\\desktop\\clone\\tasks\\hangfireapplication\\hangfireapplication\\hangfireapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -50,136 +42,110 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "NotificationServer",
-              "DocumentMoniker": "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\HangFireApplication\\HangFireApplication\\NotificationServer\\NotificationServer.csproj",
-              "RelativeDocumentMoniker": "NotificationServer\\NotificationServer.csproj",
-              "ToolTip": "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\HangFireApplication\\HangFireApplication\\NotificationServer\\NotificationServer.csproj",
-              "RelativeToolTip": "NotificationServer\\NotificationServer.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-08-19T09:21:42.393Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "EmailsController.cs",
-              "DocumentMoniker": "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\HangFireApplication\\HangFireApplication\\NotificationServer\\Controllers\\EmailsController.cs",
-              "RelativeDocumentMoniker": "NotificationServer\\Controllers\\EmailsController.cs",
-              "ToolTip": "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\HangFireApplication\\HangFireApplication\\NotificationServer\\Controllers\\EmailsController.cs",
-              "RelativeToolTip": "NotificationServer\\Controllers\\EmailsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T09:07:57.561Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "NotificationServer.http",
-              "DocumentMoniker": "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\HangFireApplication\\HangFireApplication\\NotificationServer\\NotificationServer.http",
-              "RelativeDocumentMoniker": "NotificationServer\\NotificationServer.http",
-              "ToolTip": "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\HangFireApplication\\HangFireApplication\\NotificationServer\\NotificationServer.http",
-              "RelativeToolTip": "NotificationServer\\NotificationServer.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-08-19T09:07:34.931Z",
+              "Title": "EmailTemplates.cs",
+              "DocumentMoniker": "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\HangFireApplication\\HangFireApplication\\NotificationServer\\Templates\\EmailTemplates.cs",
+              "RelativeDocumentMoniker": "NotificationServer\\Templates\\EmailTemplates.cs",
+              "ToolTip": "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\HangFireApplication\\HangFireApplication\\NotificationServer\\Templates\\EmailTemplates.cs*",
+              "RelativeToolTip": "NotificationServer\\Templates\\EmailTemplates.cs*",
+              "ViewState": "AgIAACoBAAAAAAAAAAAYwDQBAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T09:22:24.382Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "EmailTemplates.cs",
-              "DocumentMoniker": "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\HangFireApplication\\HangFireApplication\\NotificationServer\\Templates\\EmailTemplates.cs",
-              "RelativeDocumentMoniker": "NotificationServer\\Templates\\EmailTemplates.cs",
-              "ToolTip": "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\HangFireApplication\\HangFireApplication\\NotificationServer\\Templates\\EmailTemplates.cs",
-              "RelativeToolTip": "NotificationServer\\Templates\\EmailTemplates.cs",
-              "ViewState": "AgIAAPQBAAAAAAAAAAAAAAkCAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T08:37:41.38Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\HangFireApplication\\HangFireApplication\\HangFireApplication\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "HangFireApplication\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\HangFireApplication\\HangFireApplication\\HangFireApplication\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "HangFireApplication\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-19T08:37:20.719Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\HangFireApplication\\HangFireApplication\\HangFireApplication\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "HangFireApplication\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\HangFireApplication\\HangFireApplication\\HangFireApplication\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "HangFireApplication\\Controllers\\HomeController.cs",
+              "Title": "EmailsController.cs",
+              "DocumentMoniker": "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\HangFireApplication\\HangFireApplication\\NotificationServer\\Controllers\\EmailsController.cs",
+              "RelativeDocumentMoniker": "NotificationServer\\Controllers\\EmailsController.cs",
+              "ToolTip": "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\HangFireApplication\\HangFireApplication\\NotificationServer\\Controllers\\EmailsController.cs",
+              "RelativeToolTip": "NotificationServer\\Controllers\\EmailsController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T08:36:43.846Z",
+              "WhenOpened": "2024-08-20T09:22:18.454Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\HangFireApplication\\HangFireApplication\\NotificationServer\\Program.cs",
-              "RelativeDocumentMoniker": "NotificationServer\\Program.cs",
-              "ToolTip": "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\HangFireApplication\\HangFireApplication\\NotificationServer\\Program.cs",
-              "RelativeToolTip": "NotificationServer\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA2AAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "EmailConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\HangFireApplication\\HangFireApplication\\NotificationServer\\Configurations\\EmailConfiguration.cs",
+              "RelativeDocumentMoniker": "NotificationServer\\Configurations\\EmailConfiguration.cs",
+              "ToolTip": "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\HangFireApplication\\HangFireApplication\\NotificationServer\\Configurations\\EmailConfiguration.cs",
+              "RelativeToolTip": "NotificationServer\\Configurations\\EmailConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T08:19:57.87Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IMailService.cs",
-              "DocumentMoniker": "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\HangFireApplication\\HangFireApplication\\NotificationServer\\Services\\IMailService.cs",
-              "RelativeDocumentMoniker": "NotificationServer\\Services\\IMailService.cs",
-              "ToolTip": "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\HangFireApplication\\HangFireApplication\\NotificationServer\\Services\\IMailService.cs",
-              "RelativeToolTip": "NotificationServer\\Services\\IMailService.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABUAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T08:26:46.904Z",
+              "WhenOpened": "2024-08-20T09:22:15.479Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\HangFireApplication\\HangFireApplication\\NotificationServer\\appsettings.json",
-              "RelativeDocumentMoniker": "NotificationServer\\appsettings.json",
-              "ToolTip": "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\HangFireApplication\\HangFireApplication\\NotificationServer\\appsettings.json",
-              "RelativeToolTip": "NotificationServer\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-19T08:26:34.697Z",
+              "Title": "IMailService.cs",
+              "DocumentMoniker": "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\HangFireApplication\\HangFireApplication\\NotificationServer\\Services\\IMailService.cs",
+              "RelativeDocumentMoniker": "NotificationServer\\Services\\IMailService.cs",
+              "ToolTip": "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\HangFireApplication\\HangFireApplication\\NotificationServer\\Services\\IMailService.cs",
+              "RelativeToolTip": "NotificationServer\\Services\\IMailService.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAWwBwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T09:06:05.361Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\HangFireApplication\\HangFireApplication\\HangFireApplication\\Program.cs",
               "RelativeDocumentMoniker": "HangFireApplication\\Program.cs",
               "ToolTip": "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\HangFireApplication\\HangFireApplication\\HangFireApplication\\Program.cs",
               "RelativeToolTip": "HangFireApplication\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T07:14:00.665Z",
+              "WhenOpened": "2024-08-20T09:12:42.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Send.cshtml",
+              "DocumentMoniker": "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\HangFireApplication\\HangFireApplication\\HangFireApplication\\Views\\Emails\\Send.cshtml",
+              "RelativeDocumentMoniker": "HangFireApplication\\Views\\Emails\\Send.cshtml",
+              "ToolTip": "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\HangFireApplication\\HangFireApplication\\HangFireApplication\\Views\\Emails\\Send.cshtml",
+              "RelativeToolTip": "HangFireApplication\\Views\\Emails\\Send.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-20T09:11:22.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IMailServiceApi.cs",
+              "DocumentMoniker": "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\HangFireApplication\\HangFireApplication\\HangFireApplication\\Services\\IMailServiceApi.cs",
+              "RelativeDocumentMoniker": "HangFireApplication\\Services\\IMailServiceApi.cs",
+              "ToolTip": "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\HangFireApplication\\HangFireApplication\\HangFireApplication\\Services\\IMailServiceApi.cs",
+              "RelativeToolTip": "HangFireApplication\\Services\\IMailServiceApi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T09:07:14.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmailsController.cs",
+              "DocumentMoniker": "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\HangFireApplication\\HangFireApplication\\HangFireApplication\\Controllers\\EmailsController.cs",
+              "RelativeDocumentMoniker": "HangFireApplication\\Controllers\\EmailsController.cs",
+              "ToolTip": "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\HangFireApplication\\HangFireApplication\\HangFireApplication\\Controllers\\EmailsController.cs",
+              "RelativeToolTip": "HangFireApplication\\Controllers\\EmailsController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAvwCcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T09:06:05.368Z",
               "EditorCaption": ""
             }
           ]

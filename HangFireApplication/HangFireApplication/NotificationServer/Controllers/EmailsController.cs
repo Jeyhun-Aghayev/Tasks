@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using NotificationServer.Models;
 using NotificationServer.Services;
+using Shared.Dto.Email;
 
 namespace NotificationServer.Controllers;
 
@@ -16,7 +16,7 @@ public class EmailsController : ControllerBase
     }
 
     [HttpPost]
-    public async Task<IActionResult> SendMail([FromBody] EmailBody request)
+    public async Task<IActionResult> SendMail([FromBody] EmailBodyDto request)
     {
         try
         {

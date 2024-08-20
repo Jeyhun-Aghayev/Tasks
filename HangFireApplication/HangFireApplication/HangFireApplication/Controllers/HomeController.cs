@@ -1,7 +1,3 @@
-
-using Microsoft.AspNetCore.Mvc;
-using System.Diagnostics;
-
 namespace HangFireApplication.Controllers
 {
     public class HomeController : Controller

@@ -4,12 +4,11 @@
 POST  {{NotificationServer_HostAddress}}/api/Emails
 Content-Type: Application/json
 {
-  "to": "murat.vuranok@code.edu.az",
+  "to": "shabnam.sadikhzada@gmail.com",
   "from": "ceyhunsa@code.edu.az",
-  "bcc": "yagmornov2@gmail.com",
+  "bcc": "nazrinamai@code.edu.az",
   "cc": "eaupleah@gmail.com",
   "subject": "Ceyhunagayev",
   "body": "ceyhun",
   "attachments": []
 }
-

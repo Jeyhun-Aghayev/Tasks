@@ -9,7 +9,7 @@
     "Parameters": [
       {
         "Name": "request",
-        "Type": "NotificationServer.Models.EmailBody",
+        "Type": "Shared.Dto.Email.EmailBodyDto",
         "IsRequired": true
       }
     ],

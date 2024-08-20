@@ -1,14 +1,14 @@
 ﻿using MailKit.Net.Smtp;
 using MimeKit;
 using NotificationServer.Configurations;
-using NotificationServer.Models;
-
+using NotificationServer.Templates;
+using Shared.Dto.Email;
 
 namespace NotificationServer.Services
 {
     public interface IMailService
     {
-        Task SendEmailAsync(EmailBody email);
+        Task SendEmailAsync(EmailBodyDto email);
     }
     public class MailService : IMailService
     {
@@ -19,7 +19,7 @@ namespace NotificationServer.Services
             _configuration = configuration;
         }
 
-        public async Task SendEmailAsync(EmailBody email)
+        public async Task SendEmailAsync(EmailBodyDto email)
         {
             var configuration = _configuration.GetSection("EmailConfiguration").Get<EmailConfiguration>();
             var emailMessage = new MimeMessage();
@@ -37,7 +37,7 @@ namespace NotificationServer.Services
             emailMessage.Subject = email.Subject;
             var bodyBuilder = new BodyBuilder
             {
-                HtmlBody = email.Body
+                HtmlBody = email.Body.Info()
             };
 
             if (email.Attachments.Count > 0)
