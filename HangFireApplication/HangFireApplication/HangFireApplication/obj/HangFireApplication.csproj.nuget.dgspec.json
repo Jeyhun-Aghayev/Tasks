@@ -66,6 +66,14 @@
               "target": "Package",
               "version": "[4.7.1.1, )"
             },
+            "MassTransit": {
+              "target": "Package",
+              "version": "[8.2.4, )"
+            },
+            "MassTransit.RabbitMQ": {
+              "target": "Package",
+              "version": "[8.2.4, )"
+            },
             "Microsoft.Data.SqlClient": {
               "target": "Package",
               "version": "[5.2.1, )"
@@ -77,6 +85,10 @@
             "Newtonsoft.Json": {
               "target": "Package",
               "version": "[13.0.3, )"
+            },
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[6.8.1, )"
             },
             "Refit": {
               "target": "Package",

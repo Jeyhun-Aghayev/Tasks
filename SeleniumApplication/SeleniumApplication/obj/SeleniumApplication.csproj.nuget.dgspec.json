@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ceyhunsa\\source\\repos\\SeleniumApplication\\SeleniumApplication\\SeleniumApplication.csproj": {}
+    "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\SeleniumApplication\\SeleniumApplication\\SeleniumApplication.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ceyhunsa\\source\\repos\\SeleniumApplication\\SeleniumApplication\\SeleniumApplication.csproj": {
+    "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\SeleniumApplication\\SeleniumApplication\\SeleniumApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ceyhunsa\\source\\repos\\SeleniumApplication\\SeleniumApplication\\SeleniumApplication.csproj",
+        "projectUniqueName": "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\SeleniumApplication\\SeleniumApplication\\SeleniumApplication.csproj",
         "projectName": "SeleniumApplication",
-        "projectPath": "C:\\Users\\ceyhunsa\\source\\repos\\SeleniumApplication\\SeleniumApplication\\SeleniumApplication.csproj",
+        "projectPath": "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\SeleniumApplication\\SeleniumApplication\\SeleniumApplication.csproj",
         "packagesPath": "C:\\Users\\ceyhunsa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ceyhunsa\\source\\repos\\SeleniumApplication\\SeleniumApplication\\obj\\",
+        "outputPath": "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\SeleniumApplication\\SeleniumApplication\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

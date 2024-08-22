@@ -1,6 +1,4 @@
-﻿using Refit;
-
-namespace HangFireApplication.Services
+﻿namespace HangFireApplication.Services
 {
     public interface IMailServiceApi
     { 

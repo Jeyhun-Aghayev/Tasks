@@ -1,7 +1,4 @@
-﻿using Hangfire;
-using HangFireApplication.Services;
-using Refit;
-
+﻿
 namespace HangFireApplication.Controllers
 {
     public class EmailsController : Controller
