@@ -2,7 +2,7 @@
 
 #nullable disable
 
-namespace SeleniumApplication.Migrations
+namespace SeleniumSelenium.Migrations
 {
     /// <inheritdoc />
     public partial class asd : Migration

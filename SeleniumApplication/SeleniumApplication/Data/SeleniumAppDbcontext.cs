@@ -1,12 +1,12 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using SeleniumApplication.Models;
+using SeleniumSelenium.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SeleniumApplication.Data
+namespace SeleniumSelenium.Data
 {
     public class SeleniumAppDbcontext : DbContext
     {

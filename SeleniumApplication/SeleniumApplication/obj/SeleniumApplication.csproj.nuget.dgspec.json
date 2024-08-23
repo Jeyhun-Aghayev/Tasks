@@ -58,6 +58,14 @@
               "target": "Package",
               "version": "[1.11.64, )"
             },
+            "MassTransit": {
+              "target": "Package",
+              "version": "[8.2.4, )"
+            },
+            "MassTransit.RabbitMQ": {
+              "target": "Package",
+              "version": "[8.2.4, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.8, )"
@@ -77,6 +85,14 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[8.0.8, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[8.0.0, )"
             },
             "Selenium.Chrome.WebDriver": {
               "target": "Package",

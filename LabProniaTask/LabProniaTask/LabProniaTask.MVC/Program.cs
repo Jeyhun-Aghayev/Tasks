@@ -12,6 +12,7 @@ builder.Services.AddDbContext<AppdbContext>(option=>
 option.UseSqlServer(builder.Configuration.GetConnectionString("default")));
 
 builder.Services.AddScoped<IReadRepository<SliderItem>, ReadRepository<SliderItem>>();
+builder.Services.AddScoped<IWriteRepository<SliderItem>, WriteRepository<SliderItem>>();
 builder.Services.AddScoped<ISliderItemService, SliderItemService>();
 var app = builder.Build();
 
@@ -33,5 +34,9 @@ app.UseAuthorization();
 app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Home}/{action=Index}/{id?}");
+app.MapControllerRoute(
+            name: "areas",
+            pattern: "{area:exists}/{controller=Home}/{action=Index}/{id?}"
+          );
 
 app.Run();

@@ -9,15 +9,13 @@ public static class RabbitMqConfiguration
     public static void ConfigureRabbitMq(this IServiceCollection services, IConfiguration configuration)
     {
         var rabbitMqConfig = configuration
-        .GetSection("RabbitMq")
-        .Get<RabbitMqConfig>();
+    .GetSection("RabbitMq")
+    .Get<RabbitMqConfig>();
 
-        //services.AddSingleton(rabbitMqConfig);
+        services.AddSingleton(rabbitMqConfig);
 
         services.AddMassTransit(x =>
         {
-            //x.AddConsumers(consumerAssemblyMarkerType.Assembly);
-
             x.UsingRabbitMq((context, cfg) =>
             {
                 cfg.Host(rabbitMqConfig.Host, h =>
@@ -26,15 +24,24 @@ public static class RabbitMqConfiguration
                     h.Password(rabbitMqConfig.Password);
                 });
 
-                //cfg.ReceiveEndpoint(rabbitMqConfig.ExchangeName, e =>
-                //{
-                // e.ConfigureConsumers(context);
-                //});
-            });
+                cfg.ReceiveEndpoint("hellojob-queue", e =>
+                {
+                    //e.Consumer<JobSearchConsumer>(context);
+                });
 
+                cfg.ReceiveEndpoint("jobsearch-queue", e =>
+                {
+                    //e.Consumer<JobSearchConsumer>(context);
+                });
+                cfg.ReceiveEndpoint("boss-az-queue", e =>
+                {
+                    //e.Consumer<JobSearchConsumer>(context);
+                });
+            });
         });
 
         services.AddHostedService<RabbitMqHostedService>();
+
     }
 }
 

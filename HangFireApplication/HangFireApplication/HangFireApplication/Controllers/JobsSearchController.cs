@@ -7,36 +7,64 @@ namespace HangFireApplication.Controllers;
 
 public class JobsSearchController : Controller
 {
-
     private readonly IBackgroundJobClient _client;
-     private readonly IPublishEndpoint _endpoint;
-    public JobsSearchController(IBackgroundJobClient client, IPublishEndpoint endpoint)
+    private readonly IPublishEndpoint _publishEndpoint;
+    public JobsSearchController(IBackgroundJobClient backgroundJobClient, IPublishEndpoint publishEndpoint)
     {
-        _client = client;
-        _endpoint = endpoint;
+        this._client = backgroundJobClient;
+        this._publishEndpoint = publishEndpoint;
     }
 
-    public IActionResult Index()=> View();
-    public IActionResult Search() => View();
-    [HttpPost]
-    public async Task<IActionResult> Search(JobSearch model)
-    {
-        if (ModelState.IsValid) 
-        {
-            if(model.SearchNow)
-            {
-                _client.Enqueue(()=>SendJob(model));
+    // Daha önce yapılmış arama geçmişi yer alabilir :)
+    public IActionResult Index() => View();
 
-            }
-            else if(!model.SearchNow && model.ScheduleTime is not null && model.ScheduleTime>DateTime.Now)
+
+    public IActionResult Search() => View();
+
+    [HttpPost]
+    public IActionResult Search([FromBody] JobSearch model)
+    {
+        if (ModelState.IsValid)
+        {
+            if (model.SearchNow)
             {
-                _client.Schedule(()=> SendJob(model),model.ScheduleTime.Value);
+                foreach (var request in model.Companies)
+                {
+                    foreach (var keyword in model.KeyWords)
+                    {
+                        var message = new JobSearchDto
+                        {
+                            KeyWord = keyword,
+                            WebUrl = request
+                        };
+                        _client.Enqueue(() => SendJob(message));
+                    }
+                }
+            }
+
+            else if (!model.SearchNow && model.ScheduleTime != null && model.ScheduleTime > DateTime.Now)
+            {
+                foreach (var request in model.Companies)
+                {
+                    foreach (var keyword in model.KeyWords)
+                    {
+                        var message = new JobSearchDto
+                        {
+                            KeyWord = keyword,
+                            WebUrl = request
+                        };
+                        _client.Schedule(() => SendJob(message), model.ScheduleTime.Value);
+                    }
+                }
             }
         }
-        return  Json(HttpStatusCode.OK);
+
+        return Json(HttpStatusCode.OK);
     }
-    public async Task SendJob(JobSearch model)
+
+    [NonAction]
+    public async Task SendJob(JobSearchDto model)
     {
-        await _endpoint.Publish(model);
+        await _publishEndpoint.Publish(model);
     }
 }

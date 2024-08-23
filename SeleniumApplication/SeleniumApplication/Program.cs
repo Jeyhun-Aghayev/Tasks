@@ -1,57 +1,141 @@
-﻿using OpenQA.Selenium;
+﻿using MassTransit;
+using Microsoft.Extensions.DependencyInjection;
+using Microsoft.Extensions.Hosting;
+using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
 using OpenQA.Selenium.Support.UI;
+using SeleniumApplication.Consumer;
+using SeleniumApplication.Consumers;
 using SeleniumExtras.WaitHelpers;
+using SeleniumSelenium.Data;
 using WebDriverManager;
 using WebDriverManager.DriverConfigs.Impl;
 
-namespace SeleniumApplication
+namespace SeleniumSelenium;
+
+class Program
 {
-    internal class Program
+    public static async Task Main(string[] args)
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello, World!");
-
-            string url = "https://www.jobsearch.az/vacancies";
-
-            new DriverManager().SetUpDriver(new ChromeConfig());
-
-            IWebDriver driver = new ChromeDriver();
-
-            try
+        var host = Host.CreateDefaultBuilder(args)
+            .ConfigureServices((context, services) =>
             {
-                driver.Navigate().GoToUrl(url);
-                driver.Manage().Window.Maximize();
-
-                WebDriverWait wait = new WebDriverWait(driver, TimeSpan.FromSeconds(10));
-
-                // Search input elementini bul ve arama kelimesini gir
-                IWebElement searchInput = wait.Until(ExpectedConditions.ElementIsVisible(By.ClassName("search__input")));
-                searchInput.SendKeys("javascript");
-
-
-                // list__item__logo sınıfına sahip tüm öğeleri bul
-                var listItems = wait.Until(ExpectedConditions.VisibilityOfAllElementsLocatedBy(By.ClassName("list__item")));
-
-                foreach (var item in listItems)
+                services.AddMassTransit(x =>
                 {
-                    var anchor = item.FindElement(By.ClassName("list__item__text"));
-                    if (anchor == null)
-                        continue;
+                    x.AddConsumer<JobSearchConsumer>();
 
-                    Console.WriteLine(anchor.Text + " -> " + anchor.GetAttribute("href"));
+                    x.UsingRabbitMq((context, cfg) =>
+                    {
+                        cfg.Host("localhost", h =>
+                        {
+                            h.Username("guest");
+                            h.Password("guest");
+                        });
+
+                        cfg.ReceiveEndpoint("jobsearch-queue", e =>
+                        {
+                            e.ConfigureConsumer<JobSearchConsumer>(context);
+                        });
+                    });
+                });
+
+                services.AddTransient<JobSearchSender>();
+            })
+            .Build();
+
+        await host.RunAsync();
+
+        Console.ReadKey();
+    }
+
+
+
+
+    private static void FindJobs(string keyword, string url, SeleniumAppDbcontext context)
+    {
+        new DriverManager().SetUpDriver(new ChromeConfig());
+
+        using IWebDriver driver = new ChromeDriver();
+        var jobs = new List<SeleniumSelenium.Models.Job>();
+
+        try
+        {
+            driver.Navigate().GoToUrl(url);
+            driver.Manage().Window.Maximize();
+
+            var wait = new WebDriverWait(driver, TimeSpan.FromSeconds(10));
+            var searchInput = wait.Until(ExpectedConditions.ElementIsVisible(By.ClassName("search__input")));
+            searchInput.SendKeys(keyword);
+
+            Thread.Sleep(2000);
+
+
+            int previousItemCount = 0;
+            int currentItemCount = 0;
+            int maxAttempts = 5; // En fazla deneme sayısı
+            int attempts = 0;
+
+            while (attempts < maxAttempts)
+            {
+                // 'list__scroller' sınıfına sahip div elementini kaydırıyoruz
+                ((IJavaScriptExecutor)driver).ExecuteScript("document.getElementById('scroller_desctop').scrollTop = document.getElementById('scroller_desctop').scrollHeight;");
+                Thread.Sleep(3000); // Bekleme süresi, içeriklerin yüklenmesi için gerekli zaman tanır
+
+                // Şu anki içerik sayısını kontrol ediyoruz
+                previousItemCount = currentItemCount;
+                currentItemCount = driver.FindElements(By.ClassName("list__item")).Count;
+
+                // Eğer içerik sayısı artmıyorsa, döngüyü durdur
+                if (currentItemCount == previousItemCount)
+                {
+                    attempts++; // Deneme sayısını artırıyoruz
+                    if (attempts >= maxAttempts)
+                    {
+                        break; // Maksimum deneme sayısına ulaşıldığında döngüden çık
+                    }
+                }
+                else
+                {
+                    attempts = 0; // Yeni içerik yüklendiğinde deneme sayısını sıfırla
                 }
             }
-            catch (WebDriverException ex)
+
+            var listItems = wait.Until(ExpectedConditions.VisibilityOfAllElementsLocatedBy(By.ClassName("list__item")));
+
+            Console.WriteLine(listItems.Count);
+            foreach (var item in listItems)
             {
-                Console.WriteLine("An error occurred while navigating to the URL: " + ex.Message);
+                if (item.GetAttribute("class").Contains("list__item--reklam"))
+                    continue;
+
+                var anchor = item.FindElement(By.ClassName("list__item__text"));
+                if (anchor == null)
+                    continue;
+
+                var h3 = item.FindElement(By.ClassName("list__item__title"));
+
+                var jobTitle = h3?.Text ?? string.Empty;
+                var companyName = anchor.Text.Replace(jobTitle, "").Trim();
+
+                var job = new SeleniumSelenium.Models.Job
+                {
+                    KeyWord = keyword,
+                    Title = jobTitle,
+                    Url = anchor.GetAttribute("href"),
+                    CompanyName = companyName
+                };
+
+                jobs.Add(job);
             }
-            finally
-            {
-                // Tarayıcıyı kapatın
-                driver.Quit();
-            }
+
+            context.Jobs.AddRange(jobs);
+            context.SaveChanges();
         }
+        catch (WebDriverException ex)
+        {
+            Console.WriteLine("An error occurred while navigating to the URL: " + ex.Message);
+        }
+
+        driver.Quit();
     }
 }

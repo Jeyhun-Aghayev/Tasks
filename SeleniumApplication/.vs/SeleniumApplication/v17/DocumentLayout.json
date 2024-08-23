@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\SeleniumApplication\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{593797F5-0741-46AE-A60E-586A61D6469C}|SeleniumApplication\\SeleniumApplication.csproj|c:\\users\\ceyhunsa\\desktop\\clone\\tasks\\seleniumapplication\\seleniumapplication\\data\\seleniumappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{593797F5-0741-46AE-A60E-586A61D6469C}|SeleniumApplication\\SeleniumApplication.csproj|solutionrelative:seleniumapplication\\data\\seleniumappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{593797F5-0741-46AE-A60E-586A61D6469C}|SeleniumApplication\\SeleniumApplication.csproj|c:\\users\\ceyhunsa\\desktop\\clone\\tasks\\seleniumapplication\\seleniumapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{593797F5-0741-46AE-A60E-586A61D6469C}|SeleniumApplication\\SeleniumApplication.csproj|solutionrelative:seleniumapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{593797F5-0741-46AE-A60E-586A61D6469C}|SeleniumApplication\\SeleniumApplication.csproj|c:\\users\\ceyhunsa\\desktop\\clone\\tasks\\seleniumapplication\\seleniumapplication\\seleniumapplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{593797F5-0741-46AE-A60E-586A61D6469C}|SeleniumApplication\\SeleniumApplication.csproj|solutionrelative:seleniumapplication\\seleniumapplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{593797F5-0741-46AE-A60E-586A61D6469C}|SeleniumApplication\\SeleniumApplication.csproj|c:\\users\\ceyhunsa\\desktop\\clone\\tasks\\seleniumapplication\\seleniumapplication\\models\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{593797F5-0741-46AE-A60E-586A61D6469C}|SeleniumApplication\\SeleniumApplication.csproj|solutionrelative:seleniumapplication\\models\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{593797F5-0741-46AE-A60E-586A61D6469C}|SeleniumApplication\\SeleniumApplication.csproj|c:\\users\\ceyhunsa\\desktop\\clone\\tasks\\seleniumapplication\\seleniumapplication\\data\\seleniumappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{593797F5-0741-46AE-A60E-586A61D6469C}|SeleniumApplication\\SeleniumApplication.csproj|solutionrelative:seleniumapplication\\data\\seleniumappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{593797F5-0741-46AE-A60E-586A61D6469C}|SeleniumApplication\\SeleniumApplication.csproj|c:\\users\\ceyhunsa\\desktop\\clone\\tasks\\seleniumapplication\\seleniumapplication\\seleniumapplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{593797F5-0741-46AE-A60E-586A61D6469C}|SeleniumApplication\\SeleniumApplication.csproj|solutionrelative:seleniumapplication\\seleniumapplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{593797F5-0741-46AE-A60E-586A61D6469C}|SeleniumApplication\\SeleniumApplication.csproj|c:\\users\\ceyhunsa\\desktop\\clone\\tasks\\seleniumapplication\\seleniumapplication\\migrations\\20240821092726_asd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
@@ -42,23 +42,25 @@
               "RelativeToolTip": "SeleniumApplication\\Migrations\\20240821092726_asd.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T09:27:26.194Z"
+              "WhenOpened": "2024-08-21T09:27:26.194Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "SeleniumApplication.csproj",
               "DocumentMoniker": "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\SeleniumApplication\\SeleniumApplication\\SeleniumApplication.csproj",
               "RelativeDocumentMoniker": "SeleniumApplication\\SeleniumApplication.csproj",
               "ToolTip": "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\SeleniumApplication\\SeleniumApplication\\SeleniumApplication.csproj",
               "RelativeToolTip": "SeleniumApplication\\SeleniumApplication.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABDAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-08-21T09:16:54.065Z"
+              "WhenOpened": "2024-08-21T09:16:54.065Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "SeleniumAppDbcontext.cs",
               "DocumentMoniker": "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\SeleniumApplication\\SeleniumApplication\\Data\\SeleniumAppDbcontext.cs",
               "RelativeDocumentMoniker": "SeleniumApplication\\Data\\SeleniumAppDbcontext.cs",
@@ -71,27 +73,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Job.cs",
               "DocumentMoniker": "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\SeleniumApplication\\SeleniumApplication\\Models\\Job.cs",
               "RelativeDocumentMoniker": "SeleniumApplication\\Models\\Job.cs",
               "ToolTip": "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\SeleniumApplication\\SeleniumApplication\\Models\\Job.cs",
               "RelativeToolTip": "SeleniumApplication\\Models\\Job.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T09:12:44.064Z"
+              "WhenOpened": "2024-08-21T09:12:44.064Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\SeleniumApplication\\SeleniumApplication\\Program.cs",
               "RelativeDocumentMoniker": "SeleniumApplication\\Program.cs",
               "ToolTip": "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\SeleniumApplication\\SeleniumApplication\\Program.cs",
               "RelativeToolTip": "SeleniumApplication\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAACoAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T06:49:06.496Z"
+              "WhenOpened": "2024-08-21T06:49:06.496Z",
+              "EditorCaption": ""
             }
           ]
         }

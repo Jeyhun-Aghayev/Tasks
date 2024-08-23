@@ -4,11 +4,11 @@ using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
-using SeleniumApplication.Data;
+using SeleniumSelenium.Data;
 
 #nullable disable
 
-namespace SeleniumApplication.Migrations
+namespace SeleniumSelenium.Migrations
 {
     [DbContext(typeof(SeleniumAppDbcontext))]
     [Migration("20240821092726_asd")]
@@ -24,7 +24,7 @@ namespace SeleniumApplication.Migrations
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
 
-            modelBuilder.Entity("SeleniumApplication.Models.Job", b =>
+            modelBuilder.Entity("SeleniumSelenium.Models.Job", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
