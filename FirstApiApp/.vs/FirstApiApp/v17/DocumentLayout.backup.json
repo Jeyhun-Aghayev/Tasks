@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\FirstApiApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EDDF420E-D5D3-4852-BE86-02C4066A4906}|FirstApiApp\\FirstApiApp.csproj|c:\\users\\ceyhunsa\\desktop\\clone\\tasks\\firstapiapp\\firstapiapp\\controllers\\v2\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDDF420E-D5D3-4852-BE86-02C4066A4906}|FirstApiApp\\FirstApiApp.csproj|solutionrelative:firstapiapp\\controllers\\v2\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDDF420E-D5D3-4852-BE86-02C4066A4906}|FirstApiApp\\FirstApiApp.csproj|c:\\users\\ceyhunsa\\desktop\\clone\\tasks\\firstapiapp\\firstapiapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDDF420E-D5D3-4852-BE86-02C4066A4906}|FirstApiApp\\FirstApiApp.csproj|solutionrelative:firstapiapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDDF420E-D5D3-4852-BE86-02C4066A4906}|FirstApiApp\\FirstApiApp.csproj|c:\\users\\ceyhunsa\\desktop\\clone\\tasks\\firstapiapp\\firstapiapp\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDDF420E-D5D3-4852-BE86-02C4066A4906}|FirstApiApp\\FirstApiApp.csproj|solutionrelative:firstapiapp\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDDF420E-D5D3-4852-BE86-02C4066A4906}|FirstApiApp\\FirstApiApp.csproj|c:\\users\\ceyhunsa\\desktop\\clone\\tasks\\firstapiapp\\firstapiapp\\controllers\\v1\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDDF420E-D5D3-4852-BE86-02C4066A4906}|FirstApiApp\\FirstApiApp.csproj|solutionrelative:firstapiapp\\controllers\\v1\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDDF420E-D5D3-4852-BE86-02C4066A4906}|FirstApiApp\\FirstApiApp.csproj|c:\\users\\ceyhunsa\\desktop\\clone\\tasks\\firstapiapp\\firstapiapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EDDF420E-D5D3-4852-BE86-02C4066A4906}|FirstApiApp\\FirstApiApp.csproj|solutionrelative:firstapiapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\FirstApiApp\\FirstApiApp\\Migrations\\20240827074114_asd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FirstApiApp\\Migrations\\20240827074114_asd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDDF420E-D5D3-4852-BE86-02C4066A4906}|FirstApiApp\\FirstApiApp.csproj|c:\\users\\ceyhunsa\\desktop\\clone\\tasks\\firstapiapp\\firstapiapp\\data\\firstapiappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDDF420E-D5D3-4852-BE86-02C4066A4906}|FirstApiApp\\FirstApiApp.csproj|solutionrelative:firstapiapp\\data\\firstapiappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\FirstApiApp\\FirstApiApp\\Program.cs",
+              "RelativeDocumentMoniker": "FirstApiApp\\Program.cs",
+              "ToolTip": "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\FirstApiApp\\FirstApiApp\\Program.cs",
+              "RelativeToolTip": "FirstApiApp\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T07:42:55.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20240827074114_asd.cs",
+              "DocumentMoniker": "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\FirstApiApp\\FirstApiApp\\Migrations\\20240827074114_asd.cs",
+              "RelativeDocumentMoniker": "FirstApiApp\\Migrations\\20240827074114_asd.cs",
+              "ToolTip": "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\FirstApiApp\\FirstApiApp\\Migrations\\20240827074114_asd.cs",
+              "RelativeToolTip": "FirstApiApp\\Migrations\\20240827074114_asd.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T07:41:14.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FirstApiAppContext.cs",
+              "DocumentMoniker": "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\FirstApiApp\\FirstApiApp\\Data\\FirstApiAppContext.cs",
+              "RelativeDocumentMoniker": "FirstApiApp\\Data\\FirstApiAppContext.cs",
+              "ToolTip": "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\FirstApiApp\\FirstApiApp\\Data\\FirstApiAppContext.cs",
+              "RelativeToolTip": "FirstApiApp\\Data\\FirstApiAppContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T07:04:29.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\FirstApiApp\\FirstApiApp\\appsettings.json",
+              "RelativeDocumentMoniker": "FirstApiApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\FirstApiApp\\FirstApiApp\\appsettings.json",
+              "RelativeToolTip": "FirstApiApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-27T06:59:46.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\FirstApiApp\\FirstApiApp\\Controllers\\v2\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "FirstApiApp\\Controllers\\v2\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\FirstApiApp\\FirstApiApp\\Controllers\\v2\\CategoriesController.cs",
+              "RelativeToolTip": "FirstApiApp\\Controllers\\v2\\CategoriesController.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAcwF4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T06:58:59.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\FirstApiApp\\FirstApiApp\\Controllers\\v1\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "FirstApiApp\\Controllers\\v1\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\FirstApiApp\\FirstApiApp\\Controllers\\v1\\CategoriesController.cs",
+              "RelativeToolTip": "FirstApiApp\\Controllers\\v1\\CategoriesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T05:50:31.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\FirstApiApp\\FirstApiApp\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "FirstApiApp\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\FirstApiApp\\FirstApiApp\\Models\\Category.cs",
+              "RelativeToolTip": "FirstApiApp\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T05:48:26.985Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
