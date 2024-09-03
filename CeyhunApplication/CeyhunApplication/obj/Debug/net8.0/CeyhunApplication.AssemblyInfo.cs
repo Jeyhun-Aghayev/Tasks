@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CeyhunApplication")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+32ae1cf863b46b928bdda248bbe0b058a006a5a6")]
 [assembly: System.Reflection.AssemblyProductAttribute("CeyhunApplication")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CeyhunApplication")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

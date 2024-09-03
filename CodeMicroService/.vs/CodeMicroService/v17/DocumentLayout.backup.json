@@ -3,31 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\CodeMicroService\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FBDBDAC6-62C6-46FD-B81C-88CAE26B6C5A}|..\\HangFireApplication\\HangFireApplication\\HangFireApplication\\HangFireApplication.csproj|c:\\users\\ceyhunsa\\desktop\\clone\\tasks\\hangfireapplication\\hangfireapplication\\hangfireapplication\\jobsearch.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FBDBDAC6-62C6-46FD-B81C-88CAE26B6C5A}|..\\HangFireApplication\\HangFireApplication\\HangFireApplication\\HangFireApplication.csproj|c:\\users\\ceyhunsa\\desktop\\clone\\tasks\\hangfireapplication\\hangfireapplication\\hangfireapplication\\controllers\\jobssearchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0D206C7F-3EDE-449D-9996-78DF7098603B}|..\\SeleniumApplication\\SeleniumApplication\\SeleniumApplication.csproj|c:\\users\\ceyhunsa\\desktop\\clone\\tasks\\seleniumapplication\\seleniumapplication\\consumer\\jobsearchconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FBDBDAC6-62C6-46FD-B81C-88CAE26B6C5A}|..\\HangFireApplication\\HangFireApplication\\HangFireApplication\\HangFireApplication.csproj|c:\\users\\ceyhunsa\\desktop\\clone\\tasks\\hangfireapplication\\hangfireapplication\\hangfireapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FBDBDAC6-62C6-46FD-B81C-88CAE26B6C5A}|..\\HangFireApplication\\HangFireApplication\\HangFireApplication\\HangFireApplication.csproj|c:\\users\\ceyhunsa\\desktop\\clone\\tasks\\hangfireapplication\\hangfireapplication\\hangfireapplication\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FBDBDAC6-62C6-46FD-B81C-88CAE26B6C5A}|..\\HangFireApplication\\HangFireApplication\\HangFireApplication\\HangFireApplication.csproj|c:\\users\\ceyhunsa\\desktop\\clone\\tasks\\hangfireapplication\\hangfireapplication\\hangfireapplication\\hangfireapplication.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D206C7F-3EDE-449D-9996-78DF7098603B}|..\\SeleniumApplication\\SeleniumApplication\\SeleniumApplication.csproj|c:\\users\\ceyhunsa\\desktop\\clone\\tasks\\seleniumapplication\\seleniumapplication\\senders\\jobsearchsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0D206C7F-3EDE-449D-9996-78DF7098603B}|..\\SeleniumApplication\\SeleniumApplication\\SeleniumApplication.csproj|c:\\users\\ceyhunsa\\desktop\\clone\\tasks\\seleniumapplication\\seleniumapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0D206C7F-3EDE-449D-9996-78DF7098603B}|..\\SeleniumApplication\\SeleniumApplication\\SeleniumApplication.csproj|c:\\users\\ceyhunsa\\desktop\\clone\\tasks\\seleniumapplication\\seleniumapplication\\models\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FBDBDAC6-62C6-46FD-B81C-88CAE26B6C5A}|..\\HangFireApplication\\HangFireApplication\\HangFireApplication\\HangFireApplication.csproj|c:\\users\\ceyhunsa\\desktop\\clone\\tasks\\hangfireapplication\\hangfireapplication\\hangfireapplication\\jobsearch.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBDBDAC6-62C6-46FD-B81C-88CAE26B6C5A}|..\\HangFireApplication\\HangFireApplication\\HangFireApplication\\HangFireApplication.csproj|c:\\users\\ceyhunsa\\desktop\\clone\\tasks\\hangfireapplication\\hangfireapplication\\hangfireapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FBDBDAC6-62C6-46FD-B81C-88CAE26B6C5A}|..\\HangFireApplication\\HangFireApplication\\HangFireApplication\\HangFireApplication.csproj|c:\\users\\ceyhunsa\\desktop\\clone\\tasks\\hangfireapplication\\hangfireapplication\\hangfireapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
@@ -44,6 +29,19 @@
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\SeleniumApplication\\SeleniumApplication\\Program.cs",
+              "RelativeDocumentMoniker": "..\\SeleniumApplication\\SeleniumApplication\\Program.cs",
+              "ToolTip": "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\SeleniumApplication\\SeleniumApplication\\Program.cs",
+              "RelativeToolTip": "..\\SeleniumApplication\\SeleniumApplication\\Program.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAgwIwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T07:07:43.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\HangFireApplication\\HangFireApplication\\HangFireApplication\\Program.cs",
@@ -57,110 +55,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\HangFireApplication\\HangFireApplication\\HangFireApplication\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "..\\HangFireApplication\\HangFireApplication\\HangFireApplication\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\HangFireApplication\\HangFireApplication\\HangFireApplication\\Properties\\launchSettings.json",
-              "RelativeToolTip": "..\\HangFireApplication\\HangFireApplication\\HangFireApplication\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-23T06:48:47.602Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "HangFireApplication",
-              "DocumentMoniker": "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\HangFireApplication\\HangFireApplication\\HangFireApplication\\HangFireApplication.csproj",
-              "RelativeDocumentMoniker": "..\\HangFireApplication\\HangFireApplication\\HangFireApplication\\HangFireApplication.csproj",
-              "ToolTip": "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\HangFireApplication\\HangFireApplication\\HangFireApplication\\HangFireApplication.csproj",
-              "RelativeToolTip": "..\\HangFireApplication\\HangFireApplication\\HangFireApplication\\HangFireApplication.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-08-23T06:48:45.029Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "JobSearch.http",
               "DocumentMoniker": "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\HangFireApplication\\HangFireApplication\\HangFireApplication\\JobSearch.http",
               "RelativeDocumentMoniker": "..\\HangFireApplication\\HangFireApplication\\HangFireApplication\\JobSearch.http",
-              "ToolTip": "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\HangFireApplication\\HangFireApplication\\HangFireApplication\\JobSearch.http*",
-              "RelativeToolTip": "..\\HangFireApplication\\HangFireApplication\\HangFireApplication\\JobSearch.http*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\HangFireApplication\\HangFireApplication\\HangFireApplication\\JobSearch.http",
+              "RelativeToolTip": "..\\HangFireApplication\\HangFireApplication\\HangFireApplication\\JobSearch.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
               "WhenOpened": "2024-08-23T06:33:38.793Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "JobsSearchController.cs",
-              "DocumentMoniker": "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\HangFireApplication\\HangFireApplication\\HangFireApplication\\Controllers\\JobsSearchController.cs",
-              "RelativeDocumentMoniker": "..\\HangFireApplication\\HangFireApplication\\HangFireApplication\\Controllers\\JobsSearchController.cs",
-              "ToolTip": "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\HangFireApplication\\HangFireApplication\\HangFireApplication\\Controllers\\JobsSearchController.cs",
-              "RelativeToolTip": "..\\HangFireApplication\\HangFireApplication\\HangFireApplication\\Controllers\\JobsSearchController.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBoAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T06:28:26.29Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "JobSearchSender.cs",
-              "DocumentMoniker": "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\SeleniumApplication\\SeleniumApplication\\Senders\\JobSearchSender.cs",
-              "RelativeDocumentMoniker": "..\\SeleniumApplication\\SeleniumApplication\\Senders\\JobSearchSender.cs",
-              "ToolTip": "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\SeleniumApplication\\SeleniumApplication\\Senders\\JobSearchSender.cs",
-              "RelativeToolTip": "..\\SeleniumApplication\\SeleniumApplication\\Senders\\JobSearchSender.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T06:28:17.69Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Job.cs",
-              "DocumentMoniker": "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\SeleniumApplication\\SeleniumApplication\\Models\\Job.cs",
-              "RelativeDocumentMoniker": "..\\SeleniumApplication\\SeleniumApplication\\Models\\Job.cs",
-              "ToolTip": "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\SeleniumApplication\\SeleniumApplication\\Models\\Job.cs",
-              "RelativeToolTip": "..\\SeleniumApplication\\SeleniumApplication\\Models\\Job.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T06:27:30.297Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\SeleniumApplication\\SeleniumApplication\\Program.cs",
-              "RelativeDocumentMoniker": "..\\SeleniumApplication\\SeleniumApplication\\Program.cs",
-              "ToolTip": "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\SeleniumApplication\\SeleniumApplication\\Program.cs",
-              "RelativeToolTip": "..\\SeleniumApplication\\SeleniumApplication\\Program.cs",
-              "ViewState": "AgIAAGcAAAAAAAAAAAAAwHkAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T06:21:12.706Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "JobSearchConsumer.cs",
               "DocumentMoniker": "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\SeleniumApplication\\SeleniumApplication\\Consumer\\JobSearchConsumer.cs",
               "RelativeDocumentMoniker": "..\\SeleniumApplication\\SeleniumApplication\\Consumer\\JobSearchConsumer.cs",
               "ToolTip": "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\SeleniumApplication\\SeleniumApplication\\Consumer\\JobSearchConsumer.cs",
               "RelativeToolTip": "..\\SeleniumApplication\\SeleniumApplication\\Consumer\\JobSearchConsumer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAQwGwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-23T06:18:34.859Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\HangFireApplication\\HangFireApplication\\HangFireApplication\\appsettings.json",
               "RelativeDocumentMoniker": "..\\HangFireApplication\\HangFireApplication\\HangFireApplication\\appsettings.json",

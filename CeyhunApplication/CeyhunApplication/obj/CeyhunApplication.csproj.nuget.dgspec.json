@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Asus\\Desktop\\CeyhunApplication\\CeyhunApplication\\CeyhunApplication.csproj": {}
+    "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\CeyhunApplication\\CeyhunApplication\\CeyhunApplication.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Asus\\Desktop\\CeyhunApplication\\CeyhunApplication\\CeyhunApplication.csproj": {
+    "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\CeyhunApplication\\CeyhunApplication\\CeyhunApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Asus\\Desktop\\CeyhunApplication\\CeyhunApplication\\CeyhunApplication.csproj",
+        "projectUniqueName": "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\CeyhunApplication\\CeyhunApplication\\CeyhunApplication.csproj",
         "projectName": "CeyhunApplication",
-        "projectPath": "C:\\Users\\Asus\\Desktop\\CeyhunApplication\\CeyhunApplication\\CeyhunApplication.csproj",
-        "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Asus\\Desktop\\CeyhunApplication\\CeyhunApplication\\obj\\",
+        "projectPath": "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\CeyhunApplication\\CeyhunApplication\\CeyhunApplication.csproj",
+        "packagesPath": "C:\\Users\\ceyhunsa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\CeyhunApplication\\CeyhunApplication\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ceyhunsa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -23,8 +27,6 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
-          "C:\\Users\\Asus\\Desktop": {},
-          "C:\\Users\\Asus\\Desktop\\Task\\AdoGenericServices\\bin\\Debug": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -82,7 +84,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400-preview.0.24324.5/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

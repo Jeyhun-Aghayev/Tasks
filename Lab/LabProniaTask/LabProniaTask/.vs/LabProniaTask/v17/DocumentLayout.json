@@ -1,0 +1,184 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\Lab\\LabProniaTask\\LabProniaTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{768AF116-6DCC-414A-B9AA-DD6360DF7F48}|LabProniaTask.MVC\\LabProniaTask.MVC.csproj|c:\\users\\ceyhunsa\\desktop\\clone\\tasks\\lab\\labproniatask\\labproniatask\\labproniatask.mvc\\areas\\manage\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{768AF116-6DCC-414A-B9AA-DD6360DF7F48}|LabProniaTask.MVC\\LabProniaTask.MVC.csproj|solutionrelative:labproniatask.mvc\\areas\\manage\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{768AF116-6DCC-414A-B9AA-DD6360DF7F48}|LabProniaTask.MVC\\LabProniaTask.MVC.csproj|c:\\users\\ceyhunsa\\desktop\\clone\\tasks\\lab\\labproniatask\\labproniatask\\labproniatask.mvc\\models\\slideritem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{768AF116-6DCC-414A-B9AA-DD6360DF7F48}|LabProniaTask.MVC\\LabProniaTask.MVC.csproj|solutionrelative:labproniatask.mvc\\models\\slideritem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{768AF116-6DCC-414A-B9AA-DD6360DF7F48}|LabProniaTask.MVC\\LabProniaTask.MVC.csproj|c:\\users\\ceyhunsa\\desktop\\clone\\tasks\\lab\\labproniatask\\labproniatask\\labproniatask.mvc\\repository\\abstractions\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{768AF116-6DCC-414A-B9AA-DD6360DF7F48}|LabProniaTask.MVC\\LabProniaTask.MVC.csproj|solutionrelative:labproniatask.mvc\\repository\\abstractions\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{768AF116-6DCC-414A-B9AA-DD6360DF7F48}|LabProniaTask.MVC\\LabProniaTask.MVC.csproj|c:\\users\\ceyhunsa\\desktop\\clone\\tasks\\lab\\labproniatask\\labproniatask\\labproniatask.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{768AF116-6DCC-414A-B9AA-DD6360DF7F48}|LabProniaTask.MVC\\LabProniaTask.MVC.csproj|solutionrelative:labproniatask.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{768AF116-6DCC-414A-B9AA-DD6360DF7F48}|LabProniaTask.MVC\\LabProniaTask.MVC.csproj|c:\\users\\ceyhunsa\\desktop\\clone\\tasks\\lab\\labproniatask\\labproniatask\\labproniatask.mvc\\areas\\helper\\filemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{768AF116-6DCC-414A-B9AA-DD6360DF7F48}|LabProniaTask.MVC\\LabProniaTask.MVC.csproj|solutionrelative:labproniatask.mvc\\areas\\helper\\filemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{768AF116-6DCC-414A-B9AA-DD6360DF7F48}|LabProniaTask.MVC\\LabProniaTask.MVC.csproj|c:\\users\\ceyhunsa\\desktop\\clone\\tasks\\lab\\labproniatask\\labproniatask\\labproniatask.mvc\\service\\concretes\\slideritemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{768AF116-6DCC-414A-B9AA-DD6360DF7F48}|LabProniaTask.MVC\\LabProniaTask.MVC.csproj|solutionrelative:labproniatask.mvc\\service\\concretes\\slideritemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{768AF116-6DCC-414A-B9AA-DD6360DF7F48}|LabProniaTask.MVC\\LabProniaTask.MVC.csproj|c:\\users\\ceyhunsa\\desktop\\clone\\tasks\\lab\\labproniatask\\labproniatask\\labproniatask.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{768AF116-6DCC-414A-B9AA-DD6360DF7F48}|LabProniaTask.MVC\\LabProniaTask.MVC.csproj|solutionrelative:labproniatask.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{768AF116-6DCC-414A-B9AA-DD6360DF7F48}|LabProniaTask.MVC\\LabProniaTask.MVC.csproj|c:\\users\\ceyhunsa\\desktop\\clone\\tasks\\lab\\labproniatask\\labproniatask\\labproniatask.mvc\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{768AF116-6DCC-414A-B9AA-DD6360DF7F48}|LabProniaTask.MVC\\LabProniaTask.MVC.csproj|solutionrelative:labproniatask.mvc\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{768AF116-6DCC-414A-B9AA-DD6360DF7F48}|LabProniaTask.MVC\\LabProniaTask.MVC.csproj|c:\\users\\ceyhunsa\\desktop\\clone\\tasks\\lab\\labproniatask\\labproniatask\\labproniatask.mvc\\service\\abstractions\\islideritemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{768AF116-6DCC-414A-B9AA-DD6360DF7F48}|LabProniaTask.MVC\\LabProniaTask.MVC.csproj|solutionrelative:labproniatask.mvc\\service\\abstractions\\islideritemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{768AF116-6DCC-414A-B9AA-DD6360DF7F48}|LabProniaTask.MVC\\LabProniaTask.MVC.csproj|c:\\users\\ceyhunsa\\desktop\\clone\\tasks\\lab\\labproniatask\\labproniatask\\labproniatask.mvc\\repository\\concretes\\writerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{768AF116-6DCC-414A-B9AA-DD6360DF7F48}|LabProniaTask.MVC\\LabProniaTask.MVC.csproj|solutionrelative:labproniatask.mvc\\repository\\concretes\\writerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Filemanager.cs",
+              "DocumentMoniker": "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\Lab\\LabProniaTask\\LabProniaTask\\LabProniaTask.MVC\\Areas\\Helper\\Filemanager.cs",
+              "RelativeDocumentMoniker": "LabProniaTask.MVC\\Areas\\Helper\\Filemanager.cs",
+              "ToolTip": "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\Lab\\LabProniaTask\\LabProniaTask\\LabProniaTask.MVC\\Areas\\Helper\\Filemanager.cs",
+              "RelativeToolTip": "LabProniaTask.MVC\\Areas\\Helper\\Filemanager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T08:46:50.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SliderController.cs",
+              "DocumentMoniker": "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\Lab\\LabProniaTask\\LabProniaTask\\LabProniaTask.MVC\\Areas\\Manage\\Controllers\\SliderController.cs",
+              "RelativeDocumentMoniker": "LabProniaTask.MVC\\Areas\\Manage\\Controllers\\SliderController.cs",
+              "ToolTip": "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\Lab\\LabProniaTask\\LabProniaTask\\LabProniaTask.MVC\\Areas\\Manage\\Controllers\\SliderController.cs",
+              "RelativeToolTip": "LabProniaTask.MVC\\Areas\\Manage\\Controllers\\SliderController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAD4vzIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T08:40:03.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\Lab\\LabProniaTask\\LabProniaTask\\LabProniaTask.MVC\\Program.cs",
+              "RelativeDocumentMoniker": "LabProniaTask.MVC\\Program.cs",
+              "ToolTip": "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\Lab\\LabProniaTask\\LabProniaTask\\LabProniaTask.MVC\\Program.cs",
+              "RelativeToolTip": "LabProniaTask.MVC\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAA4AAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T08:38:58.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\Lab\\LabProniaTask\\LabProniaTask\\LabProniaTask.MVC\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "LabProniaTask.MVC\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\Lab\\LabProniaTask\\LabProniaTask\\LabProniaTask.MVC\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "LabProniaTask.MVC\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-08-23T08:38:48.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\Lab\\LabProniaTask\\LabProniaTask\\LabProniaTask.MVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "LabProniaTask.MVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\Lab\\LabProniaTask\\LabProniaTask\\LabProniaTask.MVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "LabProniaTask.MVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T08:38:19.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SliderItem.cs",
+              "DocumentMoniker": "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\Lab\\LabProniaTask\\LabProniaTask\\LabProniaTask.MVC\\Models\\SliderItem.cs",
+              "RelativeDocumentMoniker": "LabProniaTask.MVC\\Models\\SliderItem.cs",
+              "ToolTip": "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\Lab\\LabProniaTask\\LabProniaTask\\LabProniaTask.MVC\\Models\\SliderItem.cs",
+              "RelativeToolTip": "LabProniaTask.MVC\\Models\\SliderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T08:30:07.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ISliderItemService.cs",
+              "DocumentMoniker": "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\Lab\\LabProniaTask\\LabProniaTask\\LabProniaTask.MVC\\Service\\Abstractions\\ISliderItemService.cs",
+              "RelativeDocumentMoniker": "LabProniaTask.MVC\\Service\\Abstractions\\ISliderItemService.cs",
+              "ToolTip": "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\Lab\\LabProniaTask\\LabProniaTask\\LabProniaTask.MVC\\Service\\Abstractions\\ISliderItemService.cs",
+              "RelativeToolTip": "LabProniaTask.MVC\\Service\\Abstractions\\ISliderItemService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T08:23:22.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WriteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\Lab\\LabProniaTask\\LabProniaTask\\LabProniaTask.MVC\\Repository\\Concretes\\WriteRepository.cs",
+              "RelativeDocumentMoniker": "LabProniaTask.MVC\\Repository\\Concretes\\WriteRepository.cs",
+              "ToolTip": "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\Lab\\LabProniaTask\\LabProniaTask\\LabProniaTask.MVC\\Repository\\Concretes\\WriteRepository.cs",
+              "RelativeToolTip": "LabProniaTask.MVC\\Repository\\Concretes\\WriteRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T08:13:30.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\Lab\\LabProniaTask\\LabProniaTask\\LabProniaTask.MVC\\Repository\\Abstractions\\IRepository.cs",
+              "RelativeDocumentMoniker": "LabProniaTask.MVC\\Repository\\Abstractions\\IRepository.cs",
+              "ToolTip": "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\Lab\\LabProniaTask\\LabProniaTask\\LabProniaTask.MVC\\Repository\\Abstractions\\IRepository.cs",
+              "RelativeToolTip": "LabProniaTask.MVC\\Repository\\Abstractions\\IRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwAkAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T08:05:13.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SliderItemService.cs",
+              "DocumentMoniker": "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\Lab\\LabProniaTask\\LabProniaTask\\LabProniaTask.MVC\\Service\\Concretes\\SliderItemService.cs",
+              "RelativeDocumentMoniker": "LabProniaTask.MVC\\Service\\Concretes\\SliderItemService.cs",
+              "ToolTip": "C:\\Users\\ceyhunsa\\Desktop\\Clone\\Tasks\\Lab\\LabProniaTask\\LabProniaTask\\LabProniaTask.MVC\\Service\\Concretes\\SliderItemService.cs",
+              "RelativeToolTip": "LabProniaTask.MVC\\Service\\Concretes\\SliderItemService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T10:44:20.084Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

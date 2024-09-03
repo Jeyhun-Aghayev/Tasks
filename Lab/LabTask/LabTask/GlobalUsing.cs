@@ -1,0 +1,9 @@
+﻿global using LabTask.Entities;
+global using LabTask.Entities.Base;
+global using Microsoft.EntityFrameworkCore;
+global using LabTask.Context;
+global using LabTask.Repository.Abstractions;
+global using LabTask.Helper;
+global using LabTask.Entities.Dtos;
+global using LabTask.Service.Concretes;
+global using Microsoft.AspNetCore.Mvc;

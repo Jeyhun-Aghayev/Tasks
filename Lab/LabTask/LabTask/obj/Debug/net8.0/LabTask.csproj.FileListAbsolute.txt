@@ -1,0 +1,8 @@
+C:\Users\ceyhunsa\Desktop\Clone\Tasks\Lab\LabTask\LabTask\obj\Debug\net8.0\LabTask.csproj.AssemblyReference.cache
+C:\Users\ceyhunsa\Desktop\Clone\Tasks\Lab\LabTask\LabTask\obj\Debug\net8.0\LabTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ceyhunsa\Desktop\Clone\Tasks\Lab\LabTask\LabTask\obj\Debug\net8.0\LabTask.AssemblyInfoInputs.cache
+C:\Users\ceyhunsa\Desktop\Clone\Tasks\Lab\LabTask\LabTask\obj\Debug\net8.0\LabTask.AssemblyInfo.cs
+C:\Users\ceyhunsa\Desktop\Clone\Tasks\Lab\LabTask\LabTask\obj\Debug\net8.0\LabTask.csproj.CoreCompileInputs.cache
+C:\Users\ceyhunsa\Desktop\Clone\Tasks\Lab\LabTask\LabTask\obj\Debug\net8.0\LabTask.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ceyhunsa\Desktop\Clone\Tasks\Lab\LabTask\LabTask\obj\Debug\net8.0\LabTask.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ceyhunsa\Desktop\Clone\Tasks\Lab\LabTask\LabTask\obj\Debug\net8.0\LabTask.sourcelink.json
